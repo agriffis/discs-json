@@ -1,0 +1,479 @@
+[
+  {
+    "fade": 0,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "P1",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "Link",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "P2",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 0.5,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "Rainmaker",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "Shogun",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "Logic",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "Sensei",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 2,
+    "maker": "discmania",
+    "mold": "Razor Claw Tactic",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 2,
+    "maker": "discmania",
+    "mold": "Tactic",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "Maestro",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Method",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 0,
+    "glide": 6,
+    "maker": "discmania",
+    "mold": "MD1",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "MD3",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "Mutant",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Origin",
+    "plastic": "",
+    "speed": 5,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "Magician",
+    "plastic": "",
+    "speed": 6,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "discmania",
+    "mold": "FD",
+    "plastic": "",
+    "speed": 7,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Genius",
+    "plastic": "",
+    "speed": 7,
+    "turn": -4
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Instinct",
+    "plastic": "",
+    "speed": 7,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "discmania",
+    "mold": "Essence",
+    "plastic": "",
+    "speed": 8,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Rockstar",
+    "plastic": "",
+    "speed": 8,
+    "turn": -2
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "Splice",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
+    "fade": 6,
+    "glide": 1,
+    "maker": "discmania",
+    "mold": "Tilt",
+    "plastic": "",
+    "speed": 9,
+    "turn": 1
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "FD3",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "PD",
+    "plastic": "",
+    "speed": 10,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Mentor",
+    "plastic": "",
+    "speed": 11,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "discmania",
+    "mold": "Astronaut",
+    "plastic": "",
+    "speed": 12,
+    "turn": -4
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Enigma",
+    "plastic": "",
+    "speed": 12,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "DD1",
+    "plastic": "",
+    "speed": 11,
+    "turn": -1
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "DD3",
+    "plastic": "",
+    "speed": 12,
+    "turn": -1
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Cloud Breaker",
+    "plastic": "",
+    "speed": 12,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "Majesty",
+    "plastic": "",
+    "speed": 13,
+    "turn": -2
+  },
+  {
+    "fade": 0,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "P1x",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 2,
+    "maker": "discmania",
+    "mold": "P3",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 2,
+    "maker": "discmania",
+    "mold": "P3x",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 0,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "MD",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "MD2",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "MD4",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "MD5",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "GM",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "FD2",
+    "plastic": "",
+    "speed": 7,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "CD",
+    "plastic": "",
+    "speed": 10,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "CD2",
+    "plastic": "",
+    "speed": 9,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "CD3",
+    "plastic": "",
+    "speed": 11,
+    "turn": -1
+  },
+  {
+    "fade": 4,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "PD2",
+    "plastic": "",
+    "speed": 12,
+    "turn": 0
+  },
+  {
+    "fade": 5,
+    "glide": 3,
+    "maker": "discmania",
+    "mold": "PD3",
+    "plastic": "",
+    "speed": 11,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "discmania",
+    "mold": "PDx",
+    "plastic": "",
+    "speed": 11,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "DD",
+    "plastic": "",
+    "speed": 11,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "DD2",
+    "plastic": "",
+    "speed": 13,
+    "turn": -2
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "discmania",
+    "mold": "DDx",
+    "plastic": "",
+    "speed": 12,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "TD",
+    "plastic": "",
+    "speed": 10,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "TD2",
+    "plastic": "",
+    "speed": 10,
+    "turn": -4
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "discmania",
+    "mold": "TDx",
+    "plastic": "",
+    "speed": 9,
+    "turn": -3
+  }
+]

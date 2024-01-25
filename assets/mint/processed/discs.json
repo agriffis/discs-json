@@ -1,0 +1,110 @@
+[
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "mint",
+    "mold": "Alpha",
+    "plastic": "",
+    "speed": 8,
+    "turn": 0
+  },
+  {
+    "fade": 2.5,
+    "glide": 4,
+    "maker": "mint",
+    "mold": "Bobcat",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "mint",
+    "mold": "Bullet",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "mint",
+    "mold": "Diamondback",
+    "plastic": "",
+    "speed": 9,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "mint",
+    "mold": "Freetail",
+    "plastic": "",
+    "speed": 10,
+    "turn": -4
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "mint",
+    "mold": "Goat",
+    "plastic": "",
+    "speed": 12,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "mint",
+    "mold": "Grackle",
+    "plastic": "",
+    "speed": 7,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "mint",
+    "mold": "Jackalope",
+    "plastic": "",
+    "speed": 8,
+    "turn": -2
+  },
+  {
+    "fade": 2.5,
+    "glide": 4,
+    "maker": "mint",
+    "mold": "Longhorn",
+    "plastic": "",
+    "speed": 11,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "mint",
+    "mold": "Mustang",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "mint",
+    "mold": "Phoenix",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 3,
+    "maker": "mint",
+    "mold": "Profit",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  }
+]

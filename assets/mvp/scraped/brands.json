@@ -1,0 +1,345 @@
+[
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/taxonomies/brand"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand/15"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/posts?brand=15"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/discs?brand=15"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/inventory_product?brand=15"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/releases?brand=15"
+        }
+      ]
+    },
+    "count": 205,
+    "description": "",
+    "id": 15,
+    "link": "https://mvpdiscsports.com/?brand=mvp",
+    "meta": [],
+    "name": "MVP",
+    "parent": 0,
+    "slug": "mvp",
+    "taxonomy": "brand"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/taxonomies/brand"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand/16"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/posts?brand=16"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/discs?brand=16"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/inventory_product?brand=16"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/releases?brand=16"
+        }
+      ]
+    },
+    "count": 147,
+    "description": "",
+    "id": 16,
+    "link": "https://mvpdiscsports.com/?brand=axiom",
+    "meta": [],
+    "name": "Axiom",
+    "parent": 0,
+    "slug": "axiom",
+    "taxonomy": "brand"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/taxonomies/brand"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand/17"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/posts?brand=17"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/discs?brand=17"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/inventory_product?brand=17"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/releases?brand=17"
+        }
+      ]
+    },
+    "count": 110,
+    "description": "",
+    "id": 17,
+    "link": "https://mvpdiscsports.com/?brand=streamline",
+    "meta": [],
+    "name": "Streamline",
+    "parent": 0,
+    "slug": "streamline",
+    "taxonomy": "brand"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/taxonomies/brand"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand/26"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/posts?brand=26"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/discs?brand=26"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/inventory_product?brand=26"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/releases?brand=26"
+        }
+      ]
+    },
+    "count": 0,
+    "description": "",
+    "id": 26,
+    "link": "https://mvpdiscsports.com/?brand=mvp-dealer",
+    "meta": [],
+    "name": "MVP Dealer",
+    "parent": 0,
+    "slug": "mvp-dealer",
+    "taxonomy": "brand"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/taxonomies/brand"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand/30"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/posts?brand=30"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/discs?brand=30"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/inventory_product?brand=30"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/releases?brand=30"
+        }
+      ]
+    },
+    "count": 3,
+    "description": "",
+    "id": 30,
+    "link": "https://mvpdiscsports.com/?brand=mvps-circuit-events",
+    "meta": [],
+    "name": "MVP Circuit Events",
+    "parent": 0,
+    "slug": "mvps-circuit-events",
+    "taxonomy": "brand"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/taxonomies/brand"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand/29"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/posts?brand=29"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/discs?brand=29"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/inventory_product?brand=29"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/releases?brand=29"
+        }
+      ]
+    },
+    "count": 1,
+    "description": "",
+    "id": 29,
+    "link": "https://mvpdiscsports.com/?brand=hive-disc-golf",
+    "meta": [],
+    "name": "Hive Disc Golf",
+    "parent": 0,
+    "slug": "hive-disc-golf",
+    "taxonomy": "brand"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/taxonomies/brand"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/brand/418"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/posts?brand=418"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/discs?brand=418"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/inventory_product?brand=418"
+        },
+        {
+          "href": "https://mvpdiscsports.com/wp-json/wp/v2/releases?brand=418"
+        }
+      ]
+    },
+    "count": 0,
+    "description": "",
+    "id": 418,
+    "link": "https://mvpdiscsports.com/?brand=mvp-pro-shop",
+    "meta": [],
+    "name": "MVP Pro Shop",
+    "parent": 0,
+    "slug": "mvp-pro-shop",
+    "taxonomy": "brand"
+  }
+]

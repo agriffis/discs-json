@@ -1,0 +1,137 @@
+[
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "kastaplast",
+    "mold": "GULD",
+    "plastic": "",
+    "speed": 13,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 3,
+    "maker": "kastaplast",
+    "mold": "REKO X",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 3,
+    "maker": "kastaplast",
+    "mold": "JÄRN",
+    "plastic": "",
+    "speed": 4.5,
+    "turn": 0
+  },
+  {
+    "fade": 0,
+    "glide": 6,
+    "maker": "kastaplast",
+    "mold": "SVEA",
+    "plastic": "",
+    "speed": 5,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "kastaplast",
+    "mold": "LOTS",
+    "plastic": "",
+    "speed": 9,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "kastaplast",
+    "mold": "GÖTE",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "kastaplast",
+    "mold": "STÅL",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "kastaplast",
+    "mold": "FALK",
+    "plastic": "",
+    "speed": 9,
+    "turn": -2
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "kastaplast",
+    "mold": "GRYM X",
+    "plastic": "",
+    "speed": 12,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "kastaplast",
+    "mold": "GRYM",
+    "plastic": "",
+    "speed": 13,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "kastaplast",
+    "mold": "REKO",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 1,
+    "maker": "kastaplast",
+    "mold": "BERG",
+    "plastic": "",
+    "speed": 1,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "kastaplast",
+    "mold": "KAXE Z",
+    "plastic": "",
+    "speed": 6,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "kastaplast",
+    "mold": "KAXE",
+    "plastic": "",
+    "speed": 6,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "kastaplast",
+    "mold": "RASK",
+    "plastic": "",
+    "speed": 14,
+    "turn": 0
+  }
+]

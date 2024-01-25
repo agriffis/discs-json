@@ -1,0 +1,1316 @@
+[
+  {
+    "fade": 4,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "adder",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "dynamic",
+    "mold": "agent",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "westside",
+    "mold": "ahti",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "anchor",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 2,
+    "maker": "westside",
+    "mold": "anvil",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "ballista",
+    "plastic": "",
+    "speed": 14,
+    "turn": -1
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "ballista pro",
+    "plastic": "",
+    "speed": 14,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "bard",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 2.5,
+    "glide": 6,
+    "maker": "westside",
+    "mold": "bear",
+    "plastic": "",
+    "speed": 8,
+    "turn": -0.5
+  },
+  {
+    "fade": 0,
+    "glide": 7,
+    "maker": "latitude",
+    "mold": "beetle",
+    "plastic": "",
+    "speed": 1,
+    "turn": -1
+  },
+  {
+    "fade": 0,
+    "glide": 7,
+    "maker": "latitude",
+    "mold": "bite",
+    "plastic": "",
+    "speed": 1,
+    "turn": -1
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "blitz",
+    "plastic": "",
+    "speed": 11,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "boatman",
+    "plastic": "",
+    "speed": 11,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "bolt",
+    "plastic": "",
+    "speed": 13,
+    "turn": -2
+  },
+  {
+    "fade": 0.5,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "bounty",
+    "plastic": "",
+    "speed": 4,
+    "turn": -1.5
+  },
+  {
+    "fade": 1.5,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "breakout",
+    "plastic": "",
+    "speed": 8,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "bryce",
+    "plastic": "",
+    "speed": 9,
+    "turn": -2
+  },
+  {
+    "fade": 2,
+    "glide": 2,
+    "maker": "latitude",
+    "mold": "caltrop",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "captain",
+    "plastic": "",
+    "speed": 13,
+    "turn": -2
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "catapult",
+    "plastic": "",
+    "speed": 14,
+    "turn": -0.5
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "claymore",
+    "plastic": "",
+    "speed": 5,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "compass",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "convict",
+    "plastic": "",
+    "speed": 9,
+    "turn": -0.5
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "core",
+    "plastic": "",
+    "speed": 6,
+    "turn": -0.5
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "dynamic",
+    "mold": "criminal",
+    "plastic": "",
+    "speed": 10,
+    "turn": 1
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "crown",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 3.5,
+    "glide": 2,
+    "maker": "dynamic",
+    "mold": "culprit",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "culverin",
+    "plastic": "",
+    "speed": 9,
+    "turn": -0.5
+  },
+  {
+    "fade": 3.5,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "cutlass",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "dagger",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "defender",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0
+  },
+  {
+    "fade": 0,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "deputy",
+    "plastic": "",
+    "speed": 3,
+    "turn": -1.5
+  },
+  {
+    "fade": 3,
+    "glide": 6,
+    "maker": "westside",
+    "mold": "destiny",
+    "plastic": "",
+    "speed": 14,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "diamond",
+    "plastic": "",
+    "speed": 8,
+    "turn": -3
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "emac judge",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "emac truth",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "enforcer",
+    "plastic": "",
+    "speed": 12,
+    "turn": 0.5
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "escape",
+    "plastic": "",
+    "speed": 9,
+    "turn": -1
+  },
+  {
+    "fade": 2.5,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "evader",
+    "plastic": "",
+    "speed": 7,
+    "turn": 0
+  },
+  {
+    "fade": 0,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "evidence",
+    "plastic": "",
+    "speed": 5,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "explorer",
+    "plastic": "",
+    "speed": 7,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "faith",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "falchion",
+    "plastic": "",
+    "speed": 8,
+    "turn": -1
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "dynamic",
+    "mold": "felon",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0.5
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "flow",
+    "plastic": "",
+    "speed": 11,
+    "turn": -0.5
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "fortress",
+    "plastic": "",
+    "speed": 10,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "freedom",
+    "plastic": "",
+    "speed": 14,
+    "turn": -3
+  },
+  {
+    "fade": 1.5,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "fugitive",
+    "plastic": "",
+    "speed": 5,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "fuji",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "fury",
+    "plastic": "",
+    "speed": 9,
+    "turn": -2
+  },
+  {
+    "fade": 0,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "fuse",
+    "plastic": "",
+    "speed": 5,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "gatekeeper",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "gauntlet",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 0.5,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "gavel",
+    "plastic": "",
+    "speed": 3,
+    "turn": -2
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "getaway",
+    "plastic": "",
+    "speed": 9,
+    "turn": -0.5
+  },
+  {
+    "fade": 3.5,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "giant",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0
+  },
+  {
+    "fade": 3.5,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "gladiator",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "glory",
+    "plastic": "",
+    "speed": 7,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "gobi",
+    "plastic": "",
+    "speed": 6,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "grace",
+    "plastic": "",
+    "speed": 11,
+    "turn": -1
+  },
+  {
+    "fade": 0.5,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "guard",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "halo",
+    "plastic": "",
+    "speed": 13,
+    "turn": -0.5
+  },
+  {
+    "fade": 3,
+    "glide": 3,
+    "maker": "westside",
+    "mold": "harp",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "westside",
+    "mold": "hatchet",
+    "plastic": "",
+    "speed": 9,
+    "turn": -2
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "havoc",
+    "plastic": "",
+    "speed": 13,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "hope",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "jade",
+    "plastic": "",
+    "speed": 9,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "judge",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 1,
+    "maker": "dynamic",
+    "mold": "justice",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0.5
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "keystone",
+    "plastic": "",
+    "speed": 2,
+    "turn": -1
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "king",
+    "plastic": "",
+    "speed": 14,
+    "turn": -1.5
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "knight",
+    "plastic": "",
+    "speed": 14,
+    "turn": -1.5
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "longbowman",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "macana",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "mace",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "maiden",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "marshal",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 7,
+    "maker": "latitude",
+    "mold": "maul",
+    "plastic": "",
+    "speed": 7,
+    "turn": -2
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "maverick",
+    "plastic": "",
+    "speed": 7,
+    "turn": -1.5
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "mercy",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 4.5,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "missilen",
+    "plastic": "",
+    "speed": 15,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "musket",
+    "plastic": "",
+    "speed": 10,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "northman",
+    "plastic": "",
+    "speed": 10,
+    "turn": -1
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "pain",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "patrol",
+    "plastic": "",
+    "speed": 5,
+    "turn": -3
+  },
+  {
+    "fade": 0,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "pearl",
+    "plastic": "",
+    "speed": 4,
+    "turn": -4
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "pine",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "pioneer",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "dynamic",
+    "mold": "proof",
+    "plastic": "",
+    "speed": 5,
+    "turn": -3
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "pure",
+    "plastic": "",
+    "speed": 3,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "queen",
+    "plastic": "",
+    "speed": 14,
+    "turn": -3
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "raider",
+    "plastic": "",
+    "speed": 13,
+    "turn": -0.5
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "raketen",
+    "plastic": "",
+    "speed": 15,
+    "turn": -2
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "recoil",
+    "plastic": "",
+    "speed": 12,
+    "turn": 0
+  },
+  {
+    "fade": 2.5,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "renegade",
+    "plastic": "",
+    "speed": 11,
+    "turn": -1.5
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "riot",
+    "plastic": "",
+    "speed": 11,
+    "turn": -1
+  },
+  {
+    "fade": 3.5,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "rive",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 7,
+    "maker": "latitude",
+    "mold": "river",
+    "plastic": "",
+    "speed": 7,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "river pro",
+    "plastic": "",
+    "speed": 6,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "ruby",
+    "plastic": "",
+    "speed": 3,
+    "turn": -3
+  },
+  {
+    "fade": 2,
+    "glide": 7,
+    "maker": "latitude",
+    "mold": "saint",
+    "plastic": "",
+    "speed": 9,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "saint pro",
+    "plastic": "",
+    "speed": 8,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "sampo",
+    "plastic": "",
+    "speed": 10,
+    "turn": -1
+  },
+  {
+    "fade": 1.5,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "sapphire",
+    "plastic": "",
+    "speed": 10,
+    "turn": -2
+  },
+  {
+    "fade": 1.5,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "sarek",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "scythe",
+    "plastic": "",
+    "speed": 12,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "seer",
+    "plastic": "",
+    "speed": 7,
+    "turn": -2
+  },
+  {
+    "fade": 2.5,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "sergeant",
+    "plastic": "",
+    "speed": 11,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "sheriff",
+    "plastic": "",
+    "speed": 13,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "westside",
+    "mold": "shield",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 2,
+    "maker": "latitude",
+    "mold": "sinus",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 2,
+    "maker": "dynamic",
+    "mold": "slammer",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "sling",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 1,
+    "maker": "dynamic",
+    "mold": "sockibomb slammer",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0.5
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "sorcerer",
+    "plastic": "",
+    "speed": 13,
+    "turn": -0.5
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "spark",
+    "plastic": "",
+    "speed": 7,
+    "turn": -0.5
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "spike",
+    "plastic": "",
+    "speed": 4,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "spz1 (zombie)",
+    "plastic": "",
+    "speed": 3,
+    "turn": -2
+  },
+  {
+    "fade": 0,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "spz2 (pirate)",
+    "plastic": "",
+    "speed": 5,
+    "turn": -2
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "spz3 (superhero)",
+    "plastic": "",
+    "speed": 9,
+    "turn": -2
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "westside",
+    "mold": "stag",
+    "plastic": "",
+    "speed": 8,
+    "turn": -1
+  },
+  {
+    "fade": 5,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "stiletto",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0.5
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "striker",
+    "plastic": "",
+    "speed": 8,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 3,
+    "maker": "dynamic",
+    "mold": "suspect",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 0,
+    "glide": 3,
+    "maker": "westside",
+    "mold": "swan 1 reborn",
+    "plastic": "",
+    "speed": 3,
+    "turn": -2.5
+  },
+  {
+    "fade": 0,
+    "glide": 3,
+    "maker": "westside",
+    "mold": "swan 2",
+    "plastic": "",
+    "speed": 3,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "sword",
+    "plastic": "",
+    "speed": 12,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "thief",
+    "plastic": "",
+    "speed": 8,
+    "turn": -1.5
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "trespass",
+    "plastic": "",
+    "speed": 12,
+    "turn": -0.5
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "trident",
+    "plastic": "",
+    "speed": 6,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "latitude",
+    "mold": "trust",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "truth",
+    "plastic": "",
+    "speed": 5,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "westside",
+    "mold": "tursas",
+    "plastic": "",
+    "speed": 5,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "westside",
+    "mold": "underworld",
+    "plastic": "",
+    "speed": 7,
+    "turn": -3
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "vandal",
+    "plastic": "",
+    "speed": 9,
+    "turn": -1.5
+  },
+  {
+    "fade": 3.5,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "verdict",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "villain",
+    "plastic": "",
+    "speed": 12,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "latitude",
+    "mold": "vision",
+    "plastic": "",
+    "speed": 8,
+    "turn": -1
+  },
+  {
+    "fade": 4,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "war horse",
+    "plastic": "",
+    "speed": 13,
+    "turn": 0
+  },
+  {
+    "fade": 0.5,
+    "glide": 4,
+    "maker": "dynamic",
+    "mold": "warden",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 0,
+    "glide": 5,
+    "maker": "dynamic",
+    "mold": "warrant",
+    "plastic": "",
+    "speed": 5,
+    "turn": -2
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "westside",
+    "mold": "warship",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 6,
+    "maker": "dynamic",
+    "mold": "witness",
+    "plastic": "",
+    "speed": 8,
+    "turn": -3
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "westside",
+    "mold": "world",
+    "plastic": "",
+    "speed": 14,
+    "turn": -0.5
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "latitude",
+    "mold": "xxx",
+    "plastic": "",
+    "speed": 7,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "latitude",
+    "mold": "zion",
+    "plastic": "",
+    "speed": 9,
+    "turn": -0.5
+  }
+]
