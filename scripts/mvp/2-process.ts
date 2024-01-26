@@ -1,6 +1,6 @@
 import * as R from 'rambdax'
-import {assert, get, magicSort, myJsons} from './lib'
-import * as assets from './lib/assets'
+import {assert, get, magicSort, myJsons} from '../lib/index.ts'
+import * as assets from '../lib/assets.ts'
 import {
   derivePlasticVariant,
   flightRatingOverrides,
@@ -16,7 +16,7 @@ import {
   processed,
   scraped,
   splitPlastic,
-} from './lib/mvp'
+} from '../lib/mvp.ts'
 
 async function main() {
   const mvpBrands = (await assets.readJson(scraped.brands)) as MvpApiBrand[]
@@ -68,19 +68,22 @@ async function main() {
     R.map(R.prop('label')),
     magicSort<string>(R.identity),
     R.uniq, // should be already...
-    R.reduce((plastics, nameWithMaker) => {
-      const {maker, plastic} = splitPlastic(nameWithMaker)
-      const link = get(plasticLinks)(nameWithMaker)
-      const variants = plastic.endsWith('Electron')
-        ? [plastic, `${plastic} Firm`, `${plastic} Soft`]
-        : plastic.endsWith('Neutron') && !plastic.includes('Cosmic')
-        ? [plastic, `${plastic} Soft`]
-        : [plastic]
-      variants.forEach(v => {
-        plastics[`${maker} ${v}`] = {name: v, maker, link}
-      })
-      return plastics
-    }, {} as {[key: string]: MvpPlastic}),
+    R.reduce(
+      (plastics, nameWithMaker) => {
+        const {maker, plastic} = splitPlastic(nameWithMaker)
+        const link = get(plasticLinks)(nameWithMaker)
+        const variants = plastic.endsWith('Electron')
+          ? [plastic, `${plastic} Firm`, `${plastic} Soft`]
+          : plastic.endsWith('Neutron') && !plastic.includes('Cosmic')
+            ? [plastic, `${plastic} Soft`]
+            : [plastic]
+        variants.forEach(v => {
+          plastics[`${maker} ${v}`] = {name: v, maker, link}
+        })
+        return plastics
+      },
+      {} as {[key: string]: MvpPlastic},
+    ),
   )
 
   // Extract discs (combined molds, plastics, flight numbers and colors) from

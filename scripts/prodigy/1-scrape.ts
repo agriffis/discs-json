@@ -2,10 +2,9 @@
  * Scrape the Prodigy HTML for discs.
  */
 import * as cheerio from 'cheerio'
-import fetch from 'node-fetch'
-import * as assets from './lib/assets'
-import * as prodigy from './lib/prodigy'
-import {tools} from './lib'
+import * as assets from '../lib/assets.ts'
+import * as prodigy from '../lib/prodigy.ts'
+import {tools} from '../lib/index.ts'
 
 const {f} = tools({baseUrl: 'https://www.prodigydisc.com'})
 
@@ -79,7 +78,7 @@ async function main() {
   // fetch each product, extract flight numbers
 
   const html = await f('/collections/all-discs')
-  await assets.writeHtml(prodigy.scraped.discs, discs)
+  // await assets.writeHtml(prodigy.scraped.discs, discs)
 }
 
 main()

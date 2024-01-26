@@ -1,10 +1,9 @@
 /**
  * Scrape the MVP API for discs and plastics.
  */
-import fetch from 'node-fetch'
 import * as R from 'rambdax'
-import {magicSort} from './lib'
-import * as assets from './lib/assets'
+import {magicSort} from '../lib/index.ts'
+import * as assets from '../lib/assets.ts'
 import {
   MvpApiBrand,
   MvpApiConfig,
@@ -12,9 +11,9 @@ import {
   MvpApiImage,
   MvpApiImages,
   scraped,
-} from './lib/mvp'
+} from '../lib/mvp.ts'
 
-const dbg = s => {
+const dbg = <T>(s: T) => {
   console.log(s)
   return s
 }
@@ -46,7 +45,7 @@ async function fetchDiscs(): Promise<MvpApiDisc[]> {
   return magicSort(R.path('title.rendered'))(discs)
 }
 
-function timeout(ms) {
+function timeout(ms: number) {
   return new Promise(resolve => setTimeout(resolve, ms))
 }
 
@@ -87,7 +86,7 @@ async function fetchImages(): Promise<MvpApiImages> {
             slug: dd.slug,
             colors: R.piped(
               dd.download_color,
-              R.map(cid => config.colors.find(R.propEq('value', cid))?.label),
+              R.map(cid => config.colors.find(c => c.value === cid)?.label),
               R.reject(R.isNil),
             ),
             mime_type: dd.mime_type,

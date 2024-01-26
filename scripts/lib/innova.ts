@@ -1,4 +1,4 @@
-import {Disc} from './types'
+import {Disc} from './types.ts'
 
 //----------------------------------------------------------------------
 // Processed types
@@ -46,6 +46,8 @@ export const plasticNames = {
   'jk pro': 'Pro (JK blend)',
   'kc pro': 'Pro (KC blend)',
   'yeti pro': 'Pro (Yeti blend)',
+  'halo star': 'Halo Star',
+  nexus: 'Nexus',
 } as const
 
 export type PlasticId = keyof typeof plasticNames

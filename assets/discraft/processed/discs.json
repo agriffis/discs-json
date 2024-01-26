@@ -2,8 +2,8 @@
   {
     "fade": 3,
     "glide": 6,
-    "maker": "discraft",
-    "mold": "anax",
+    "maker": "Discraft",
+    "mold": "Anax",
     "plastic": "",
     "speed": 10,
     "turn": 0
@@ -11,287 +11,62 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "discraft",
-    "mold": "archer",
-    "plastic": "",
-    "speed": 5,
-    "turn": -4
-  },
-  {
-    "fade": 1,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "avenger ss",
-    "plastic": "",
-    "speed": 10,
-    "turn": -3
-  },
-  {
-    "fade": 1,
-    "glide": 3,
-    "maker": "discraft",
-    "mold": "banger gt",
-    "plastic": "",
-    "speed": 2,
-    "turn": 0
-  },
-  {
-    "fade": 1,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "buzzz",
+    "maker": "Discraft",
+    "mold": "Buzzz",
     "plastic": "",
     "speed": 5,
     "turn": -1
   },
   {
-    "fade": 3,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "buzzz os",
-    "plastic": "",
-    "speed": 5,
-    "turn": 0
-  },
-  {
     "fade": 1,
     "glide": 4,
-    "maker": "discraft",
-    "mold": "buzzz ss",
+    "maker": "Discraft",
+    "mold": "Buzzz SS",
     "plastic": "",
     "speed": 5,
     "turn": -2
-  },
-  {
-    "fade": 2,
-    "glide": 3,
-    "maker": "discraft",
-    "mold": "challenger",
-    "plastic": "",
-    "speed": 2,
-    "turn": 0
-  },
-  {
-    "fade": 2,
-    "glide": 3,
-    "maker": "discraft",
-    "mold": "challenger ss",
-    "plastic": "",
-    "speed": 2,
-    "turn": -1
-  },
-  {
-    "fade": 1,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "comet",
-    "plastic": "",
-    "speed": 4,
-    "turn": -2
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "crank",
-    "plastic": "",
-    "speed": 13,
-    "turn": -2
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "crank ss",
-    "plastic": "",
-    "speed": 13,
-    "turn": -3
-  },
-  {
-    "fade": 0,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "fierce",
-    "plastic": "",
-    "speed": 3,
-    "turn": -2
-  },
-  {
-    "fade": 5,
-    "glide": 3,
-    "maker": "discraft",
-    "mold": "flick",
-    "plastic": "",
-    "speed": 12,
-    "turn": 1
-  },
-  {
-    "fade": 2,
-    "glide": 2,
-    "maker": "discraft",
-    "mold": "focus",
-    "plastic": "",
-    "speed": 2,
-    "turn": -1
-  },
-  {
-    "fade": 3,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "force",
-    "plastic": "",
-    "speed": 12,
-    "turn": 0
-  },
-  {
-    "fade": 1,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "glide",
-    "plastic": "",
-    "speed": 6,
-    "turn": -3
   },
   {
     "fade": 1,
     "glide": 6,
-    "maker": "discraft",
-    "mold": "heat",
+    "maker": "Discraft",
+    "mold": "Heat",
     "plastic": "",
     "speed": 9,
     "turn": -3
   },
   {
-    "fade": 4,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "machete",
-    "plastic": "",
-    "speed": 11,
-    "turn": 0
-  },
-  {
-    "fade": 1,
-    "glide": 3,
-    "maker": "discraft",
-    "mold": "magnet",
-    "plastic": "",
-    "speed": 2,
-    "turn": -1
-  },
-  {
     "fade": 3,
     "glide": 4,
-    "maker": "discraft",
-    "mold": "malta",
+    "maker": "Discraft",
+    "mold": "Malta",
     "plastic": "",
     "speed": 5,
     "turn": 1
   },
   {
-    "fade": 2,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "mantis",
-    "plastic": "",
-    "speed": 8,
-    "turn": -2
-  },
-  {
-    "fade": 1,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "meteor",
-    "plastic": "",
-    "speed": 5,
-    "turn": -3
-  },
-  {
     "fade": 3,
     "glide": 5,
-    "maker": "discraft",
-    "mold": "nuke",
+    "maker": "Discraft",
+    "mold": "Nuke",
     "plastic": "",
     "speed": 13,
     "turn": -1
   },
   {
-    "fade": 4,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "nuke os",
-    "plastic": "",
-    "speed": 13,
-    "turn": 0
-  },
-  {
     "fade": 3,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "nuke ss",
-    "plastic": "",
-    "speed": 13,
-    "turn": -3
-  },
-  {
-    "fade": 4,
     "glide": 4,
-    "maker": "discraft",
-    "mold": "predator",
+    "maker": "Discraft",
+    "mold": "Raptor",
     "plastic": "",
     "speed": 9,
-    "turn": 1
-  },
-  {
-    "fade": 3,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "punisher",
-    "plastic": "",
-    "speed": 12,
-    "turn": 0
-  },
-  {
-    "fade": 3,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "raptor",
-    "plastic": "",
-    "speed": 9,
-    "turn": 0
-  },
-  {
-    "fade": 2,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "ringer",
-    "plastic": "",
-    "speed": 4,
-    "turn": 0
-  },
-  {
-    "fade": 3,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "ringer gt",
-    "plastic": "",
-    "speed": 4,
-    "turn": 0
-  },
-  {
-    "fade": 1,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "roach",
-    "plastic": "",
-    "speed": 2,
     "turn": 0
   },
   {
     "fade": 0,
     "glide": 5,
-    "maker": "discraft",
-    "mold": "sol",
+    "maker": "Discraft",
+    "mold": "Sol",
     "plastic": "",
     "speed": 4,
     "turn": -3
@@ -299,98 +74,17 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "discraft",
-    "mold": "stalker",
+    "maker": "Discraft",
+    "mold": "Stalker",
     "plastic": "",
     "speed": 7,
     "turn": -1
   },
   {
-    "fade": 1,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "sting",
-    "plastic": "",
-    "speed": 7,
-    "turn": -2
-  },
-  {
-    "fade": 1,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "stratus",
-    "plastic": "",
-    "speed": 5,
-    "turn": -4
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "surge ss",
-    "plastic": "",
-    "speed": 11,
-    "turn": -2
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "thrasher",
-    "plastic": "",
-    "speed": 12,
-    "turn": -3
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "undertaker",
-    "plastic": "",
-    "speed": 9,
-    "turn": -1
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "vulture",
-    "plastic": "",
-    "speed": 10,
-    "turn": 0
-  },
-  {
-    "fade": 2,
-    "glide": 3,
-    "maker": "discraft",
-    "mold": "wasp",
-    "plastic": "",
-    "speed": 5,
-    "turn": 0
-  },
-  {
-    "fade": 3,
-    "glide": 5,
-    "maker": "discraft",
-    "mold": "zeus",
-    "plastic": "",
-    "speed": 12,
-    "turn": -1
-  },
-  {
-    "fade": 1,
-    "glide": 4,
-    "maker": "discraft",
-    "mold": "zombee",
-    "plastic": "",
-    "speed": 6,
-    "turn": -1
-  },
-  {
     "fade": 3,
     "glide": 3,
-    "maker": "discraft",
-    "mold": "zone",
+    "maker": "Discraft",
+    "mold": "Zone",
     "plastic": "",
     "speed": 4,
     "turn": 0

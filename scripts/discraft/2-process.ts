@@ -3,9 +3,9 @@
  */
 import * as cheerio from 'cheerio'
 import * as R from 'rambdax'
-import * as assets from './lib/assets'
-import {processed, scraped} from './lib/discraft'
-import {Disc} from './lib/types'
+import * as assets from '../lib/assets.ts'
+import {processed, scraped} from '../lib/discraft.ts'
+import {Disc} from '../lib/types.ts'
 
 const splitNums = (s: string) => {
   const nums = [...s.matchAll(/[-+]?\b(?:\d+[.]\d+|\d+|[.]\d+)\b/g)].map(m =>
@@ -23,11 +23,7 @@ async function main() {
   const $ = cheerio.load(html, null, false)
   const foundDiscs: Disc[] = $('#specifications:contains("MODEL")')
     .map(function () {
-      const mold = $(this)
-        .find('td:contains("MODEL")')
-        .next()
-        .text()
-        .trim()
+      const mold = $(this).find('td:contains("MODEL")').next().text().trim()
       const $numses = $(this)
         .prev()
         .find('p')

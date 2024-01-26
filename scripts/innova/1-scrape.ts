@@ -2,9 +2,8 @@
  * Scrape the Innova HTML for discs and plastics.
  */
 import * as cheerio from 'cheerio'
-import fetch from 'node-fetch'
-import * as assets from './lib/assets'
-import {scraped} from './lib/innova'
+import * as assets from '../lib/assets.ts'
+import {scraped} from '../lib/innova.ts'
 
 async function main() {
   const html = await fetch(

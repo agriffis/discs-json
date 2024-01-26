@@ -38,7 +38,8 @@
         }
       ]
     },
-    "count": 205,
+    "acf": [],
+    "count": 274,
     "description": "",
     "id": 15,
     "link": "https://mvpdiscsports.com/?brand=mvp",
@@ -46,7 +47,78 @@
     "name": "MVP",
     "parent": 0,
     "slug": "mvp",
-    "taxonomy": "brand"
+    "taxonomy": "brand",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>MVP Archives - MVP Disc Sports</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mvpdiscsports.com/?brand=mvp\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"MVP Archives - MVP Disc Sports\" />\n<meta property=\"og:url\" content=\"https://mvpdiscsports.com/?brand=mvp\" />\n<meta property=\"og:site_name\" content=\"MVP Disc Sports\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://mvpdiscsports.com/?brand=mvp\",\"url\":\"https://mvpdiscsports.com/?brand=mvp\",\"name\":\"MVP Archives - MVP Disc Sports\",\"isPartOf\":{\"@id\":\"https://mvpdiscsports.com/#website\"},\"breadcrumb\":{\"@id\":\"https://mvpdiscsports.com/?brand=mvp#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mvpdiscsports.com/?brand=mvp#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://mvpdiscsports.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"MVP\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://mvpdiscsports.com/#website\",\"url\":\"https://mvpdiscsports.com/\",\"name\":\"MVP Disc Sports\",\"description\":\"The Leading Edge\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mvpdiscsports.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "canonical": "https://mvpdiscsports.com/?brand=mvp",
+      "og_locale": "en_US",
+      "og_site_name": "MVP Disc Sports",
+      "og_title": "MVP Archives - MVP Disc Sports",
+      "og_type": "article",
+      "og_url": "https://mvpdiscsports.com/?brand=mvp",
+      "robots": {
+        "follow": "follow",
+        "index": "index",
+        "max-image-preview": "max-image-preview:large",
+        "max-snippet": "max-snippet:-1",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvp",
+            "@type": "CollectionPage",
+            "breadcrumb": {
+              "@id": "https://mvpdiscsports.com/?brand=mvp#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://mvpdiscsports.com/#website"
+            },
+            "name": "MVP Archives - MVP Disc Sports",
+            "url": "https://mvpdiscsports.com/?brand=mvp"
+          },
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvp#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://mvpdiscsports.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "MVP",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://mvpdiscsports.com/#website",
+            "@type": "WebSite",
+            "description": "The Leading Edge",
+            "inLanguage": "en-US",
+            "name": "MVP Disc Sports",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mvpdiscsports.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "url": "https://mvpdiscsports.com/"
+          }
+        ]
+      },
+      "title": "MVP Archives - MVP Disc Sports",
+      "twitter_card": "summary_large_image"
+    }
   },
   {
     "_links": {
@@ -87,7 +159,8 @@
         }
       ]
     },
-    "count": 147,
+    "acf": [],
+    "count": 167,
     "description": "",
     "id": 16,
     "link": "https://mvpdiscsports.com/?brand=axiom",
@@ -95,7 +168,78 @@
     "name": "Axiom",
     "parent": 0,
     "slug": "axiom",
-    "taxonomy": "brand"
+    "taxonomy": "brand",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Axiom Archives - MVP Disc Sports</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mvpdiscsports.com/?brand=axiom\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Axiom Archives - MVP Disc Sports\" />\n<meta property=\"og:url\" content=\"https://mvpdiscsports.com/?brand=axiom\" />\n<meta property=\"og:site_name\" content=\"MVP Disc Sports\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://mvpdiscsports.com/?brand=axiom\",\"url\":\"https://mvpdiscsports.com/?brand=axiom\",\"name\":\"Axiom Archives - MVP Disc Sports\",\"isPartOf\":{\"@id\":\"https://mvpdiscsports.com/#website\"},\"breadcrumb\":{\"@id\":\"https://mvpdiscsports.com/?brand=axiom#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mvpdiscsports.com/?brand=axiom#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://mvpdiscsports.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Axiom\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://mvpdiscsports.com/#website\",\"url\":\"https://mvpdiscsports.com/\",\"name\":\"MVP Disc Sports\",\"description\":\"The Leading Edge\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mvpdiscsports.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "canonical": "https://mvpdiscsports.com/?brand=axiom",
+      "og_locale": "en_US",
+      "og_site_name": "MVP Disc Sports",
+      "og_title": "Axiom Archives - MVP Disc Sports",
+      "og_type": "article",
+      "og_url": "https://mvpdiscsports.com/?brand=axiom",
+      "robots": {
+        "follow": "follow",
+        "index": "index",
+        "max-image-preview": "max-image-preview:large",
+        "max-snippet": "max-snippet:-1",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://mvpdiscsports.com/?brand=axiom",
+            "@type": "CollectionPage",
+            "breadcrumb": {
+              "@id": "https://mvpdiscsports.com/?brand=axiom#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://mvpdiscsports.com/#website"
+            },
+            "name": "Axiom Archives - MVP Disc Sports",
+            "url": "https://mvpdiscsports.com/?brand=axiom"
+          },
+          {
+            "@id": "https://mvpdiscsports.com/?brand=axiom#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://mvpdiscsports.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "Axiom",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://mvpdiscsports.com/#website",
+            "@type": "WebSite",
+            "description": "The Leading Edge",
+            "inLanguage": "en-US",
+            "name": "MVP Disc Sports",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mvpdiscsports.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "url": "https://mvpdiscsports.com/"
+          }
+        ]
+      },
+      "title": "Axiom Archives - MVP Disc Sports",
+      "twitter_card": "summary_large_image"
+    }
   },
   {
     "_links": {
@@ -136,7 +280,8 @@
         }
       ]
     },
-    "count": 110,
+    "acf": [],
+    "count": 130,
     "description": "",
     "id": 17,
     "link": "https://mvpdiscsports.com/?brand=streamline",
@@ -144,7 +289,78 @@
     "name": "Streamline",
     "parent": 0,
     "slug": "streamline",
-    "taxonomy": "brand"
+    "taxonomy": "brand",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Streamline Archives - MVP Disc Sports</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mvpdiscsports.com/?brand=streamline\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Streamline Archives - MVP Disc Sports\" />\n<meta property=\"og:url\" content=\"https://mvpdiscsports.com/?brand=streamline\" />\n<meta property=\"og:site_name\" content=\"MVP Disc Sports\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://mvpdiscsports.com/?brand=streamline\",\"url\":\"https://mvpdiscsports.com/?brand=streamline\",\"name\":\"Streamline Archives - MVP Disc Sports\",\"isPartOf\":{\"@id\":\"https://mvpdiscsports.com/#website\"},\"breadcrumb\":{\"@id\":\"https://mvpdiscsports.com/?brand=streamline#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mvpdiscsports.com/?brand=streamline#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://mvpdiscsports.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Streamline\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://mvpdiscsports.com/#website\",\"url\":\"https://mvpdiscsports.com/\",\"name\":\"MVP Disc Sports\",\"description\":\"The Leading Edge\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mvpdiscsports.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "canonical": "https://mvpdiscsports.com/?brand=streamline",
+      "og_locale": "en_US",
+      "og_site_name": "MVP Disc Sports",
+      "og_title": "Streamline Archives - MVP Disc Sports",
+      "og_type": "article",
+      "og_url": "https://mvpdiscsports.com/?brand=streamline",
+      "robots": {
+        "follow": "follow",
+        "index": "index",
+        "max-image-preview": "max-image-preview:large",
+        "max-snippet": "max-snippet:-1",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://mvpdiscsports.com/?brand=streamline",
+            "@type": "CollectionPage",
+            "breadcrumb": {
+              "@id": "https://mvpdiscsports.com/?brand=streamline#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://mvpdiscsports.com/#website"
+            },
+            "name": "Streamline Archives - MVP Disc Sports",
+            "url": "https://mvpdiscsports.com/?brand=streamline"
+          },
+          {
+            "@id": "https://mvpdiscsports.com/?brand=streamline#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://mvpdiscsports.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "Streamline",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://mvpdiscsports.com/#website",
+            "@type": "WebSite",
+            "description": "The Leading Edge",
+            "inLanguage": "en-US",
+            "name": "MVP Disc Sports",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mvpdiscsports.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "url": "https://mvpdiscsports.com/"
+          }
+        ]
+      },
+      "title": "Streamline Archives - MVP Disc Sports",
+      "twitter_card": "summary_large_image"
+    }
   },
   {
     "_links": {
@@ -185,6 +401,7 @@
         }
       ]
     },
+    "acf": [],
     "count": 0,
     "description": "",
     "id": 26,
@@ -193,7 +410,78 @@
     "name": "MVP Dealer",
     "parent": 0,
     "slug": "mvp-dealer",
-    "taxonomy": "brand"
+    "taxonomy": "brand",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>MVP Dealer Archives - MVP Disc Sports</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mvpdiscsports.com/?brand=mvp-dealer\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"MVP Dealer Archives - MVP Disc Sports\" />\n<meta property=\"og:url\" content=\"https://mvpdiscsports.com/?brand=mvp-dealer\" />\n<meta property=\"og:site_name\" content=\"MVP Disc Sports\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://mvpdiscsports.com/?brand=mvp-dealer\",\"url\":\"https://mvpdiscsports.com/?brand=mvp-dealer\",\"name\":\"MVP Dealer Archives - MVP Disc Sports\",\"isPartOf\":{\"@id\":\"https://mvpdiscsports.com/#website\"},\"breadcrumb\":{\"@id\":\"https://mvpdiscsports.com/?brand=mvp-dealer#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mvpdiscsports.com/?brand=mvp-dealer#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://mvpdiscsports.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"MVP Dealer\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://mvpdiscsports.com/#website\",\"url\":\"https://mvpdiscsports.com/\",\"name\":\"MVP Disc Sports\",\"description\":\"The Leading Edge\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mvpdiscsports.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "canonical": "https://mvpdiscsports.com/?brand=mvp-dealer",
+      "og_locale": "en_US",
+      "og_site_name": "MVP Disc Sports",
+      "og_title": "MVP Dealer Archives - MVP Disc Sports",
+      "og_type": "article",
+      "og_url": "https://mvpdiscsports.com/?brand=mvp-dealer",
+      "robots": {
+        "follow": "follow",
+        "index": "index",
+        "max-image-preview": "max-image-preview:large",
+        "max-snippet": "max-snippet:-1",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvp-dealer",
+            "@type": "CollectionPage",
+            "breadcrumb": {
+              "@id": "https://mvpdiscsports.com/?brand=mvp-dealer#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://mvpdiscsports.com/#website"
+            },
+            "name": "MVP Dealer Archives - MVP Disc Sports",
+            "url": "https://mvpdiscsports.com/?brand=mvp-dealer"
+          },
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvp-dealer#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://mvpdiscsports.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "MVP Dealer",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://mvpdiscsports.com/#website",
+            "@type": "WebSite",
+            "description": "The Leading Edge",
+            "inLanguage": "en-US",
+            "name": "MVP Disc Sports",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mvpdiscsports.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "url": "https://mvpdiscsports.com/"
+          }
+        ]
+      },
+      "title": "MVP Dealer Archives - MVP Disc Sports",
+      "twitter_card": "summary_large_image"
+    }
   },
   {
     "_links": {
@@ -234,6 +522,7 @@
         }
       ]
     },
+    "acf": [],
     "count": 3,
     "description": "",
     "id": 30,
@@ -242,7 +531,78 @@
     "name": "MVP Circuit Events",
     "parent": 0,
     "slug": "mvps-circuit-events",
-    "taxonomy": "brand"
+    "taxonomy": "brand",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>MVP Circuit Events Archives - MVP Disc Sports</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mvpdiscsports.com/?brand=mvps-circuit-events\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"MVP Circuit Events Archives - MVP Disc Sports\" />\n<meta property=\"og:url\" content=\"https://mvpdiscsports.com/?brand=mvps-circuit-events\" />\n<meta property=\"og:site_name\" content=\"MVP Disc Sports\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://mvpdiscsports.com/?brand=mvps-circuit-events\",\"url\":\"https://mvpdiscsports.com/?brand=mvps-circuit-events\",\"name\":\"MVP Circuit Events Archives - MVP Disc Sports\",\"isPartOf\":{\"@id\":\"https://mvpdiscsports.com/#website\"},\"breadcrumb\":{\"@id\":\"https://mvpdiscsports.com/?brand=mvps-circuit-events#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mvpdiscsports.com/?brand=mvps-circuit-events#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://mvpdiscsports.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"MVP Circuit Events\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://mvpdiscsports.com/#website\",\"url\":\"https://mvpdiscsports.com/\",\"name\":\"MVP Disc Sports\",\"description\":\"The Leading Edge\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mvpdiscsports.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "canonical": "https://mvpdiscsports.com/?brand=mvps-circuit-events",
+      "og_locale": "en_US",
+      "og_site_name": "MVP Disc Sports",
+      "og_title": "MVP Circuit Events Archives - MVP Disc Sports",
+      "og_type": "article",
+      "og_url": "https://mvpdiscsports.com/?brand=mvps-circuit-events",
+      "robots": {
+        "follow": "follow",
+        "index": "index",
+        "max-image-preview": "max-image-preview:large",
+        "max-snippet": "max-snippet:-1",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvps-circuit-events",
+            "@type": "CollectionPage",
+            "breadcrumb": {
+              "@id": "https://mvpdiscsports.com/?brand=mvps-circuit-events#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://mvpdiscsports.com/#website"
+            },
+            "name": "MVP Circuit Events Archives - MVP Disc Sports",
+            "url": "https://mvpdiscsports.com/?brand=mvps-circuit-events"
+          },
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvps-circuit-events#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://mvpdiscsports.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "MVP Circuit Events",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://mvpdiscsports.com/#website",
+            "@type": "WebSite",
+            "description": "The Leading Edge",
+            "inLanguage": "en-US",
+            "name": "MVP Disc Sports",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mvpdiscsports.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "url": "https://mvpdiscsports.com/"
+          }
+        ]
+      },
+      "title": "MVP Circuit Events Archives - MVP Disc Sports",
+      "twitter_card": "summary_large_image"
+    }
   },
   {
     "_links": {
@@ -283,6 +643,7 @@
         }
       ]
     },
+    "acf": [],
     "count": 1,
     "description": "",
     "id": 29,
@@ -291,7 +652,78 @@
     "name": "Hive Disc Golf",
     "parent": 0,
     "slug": "hive-disc-golf",
-    "taxonomy": "brand"
+    "taxonomy": "brand",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Hive Disc Golf Archives - MVP Disc Sports</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mvpdiscsports.com/?brand=hive-disc-golf\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Hive Disc Golf Archives - MVP Disc Sports\" />\n<meta property=\"og:url\" content=\"https://mvpdiscsports.com/?brand=hive-disc-golf\" />\n<meta property=\"og:site_name\" content=\"MVP Disc Sports\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://mvpdiscsports.com/?brand=hive-disc-golf\",\"url\":\"https://mvpdiscsports.com/?brand=hive-disc-golf\",\"name\":\"Hive Disc Golf Archives - MVP Disc Sports\",\"isPartOf\":{\"@id\":\"https://mvpdiscsports.com/#website\"},\"breadcrumb\":{\"@id\":\"https://mvpdiscsports.com/?brand=hive-disc-golf#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mvpdiscsports.com/?brand=hive-disc-golf#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://mvpdiscsports.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Hive Disc Golf\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://mvpdiscsports.com/#website\",\"url\":\"https://mvpdiscsports.com/\",\"name\":\"MVP Disc Sports\",\"description\":\"The Leading Edge\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mvpdiscsports.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "canonical": "https://mvpdiscsports.com/?brand=hive-disc-golf",
+      "og_locale": "en_US",
+      "og_site_name": "MVP Disc Sports",
+      "og_title": "Hive Disc Golf Archives - MVP Disc Sports",
+      "og_type": "article",
+      "og_url": "https://mvpdiscsports.com/?brand=hive-disc-golf",
+      "robots": {
+        "follow": "follow",
+        "index": "index",
+        "max-image-preview": "max-image-preview:large",
+        "max-snippet": "max-snippet:-1",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://mvpdiscsports.com/?brand=hive-disc-golf",
+            "@type": "CollectionPage",
+            "breadcrumb": {
+              "@id": "https://mvpdiscsports.com/?brand=hive-disc-golf#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://mvpdiscsports.com/#website"
+            },
+            "name": "Hive Disc Golf Archives - MVP Disc Sports",
+            "url": "https://mvpdiscsports.com/?brand=hive-disc-golf"
+          },
+          {
+            "@id": "https://mvpdiscsports.com/?brand=hive-disc-golf#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://mvpdiscsports.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "Hive Disc Golf",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://mvpdiscsports.com/#website",
+            "@type": "WebSite",
+            "description": "The Leading Edge",
+            "inLanguage": "en-US",
+            "name": "MVP Disc Sports",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mvpdiscsports.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "url": "https://mvpdiscsports.com/"
+          }
+        ]
+      },
+      "title": "Hive Disc Golf Archives - MVP Disc Sports",
+      "twitter_card": "summary_large_image"
+    }
   },
   {
     "_links": {
@@ -332,6 +764,7 @@
         }
       ]
     },
+    "acf": [],
     "count": 0,
     "description": "",
     "id": 418,
@@ -340,6 +773,77 @@
     "name": "MVP Pro Shop",
     "parent": 0,
     "slug": "mvp-pro-shop",
-    "taxonomy": "brand"
+    "taxonomy": "brand",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>MVP Pro Shop Archives - MVP Disc Sports</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mvpdiscsports.com/?brand=mvp-pro-shop\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"MVP Pro Shop Archives - MVP Disc Sports\" />\n<meta property=\"og:url\" content=\"https://mvpdiscsports.com/?brand=mvp-pro-shop\" />\n<meta property=\"og:site_name\" content=\"MVP Disc Sports\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://mvpdiscsports.com/?brand=mvp-pro-shop\",\"url\":\"https://mvpdiscsports.com/?brand=mvp-pro-shop\",\"name\":\"MVP Pro Shop Archives - MVP Disc Sports\",\"isPartOf\":{\"@id\":\"https://mvpdiscsports.com/#website\"},\"breadcrumb\":{\"@id\":\"https://mvpdiscsports.com/?brand=mvp-pro-shop#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mvpdiscsports.com/?brand=mvp-pro-shop#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://mvpdiscsports.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"MVP Pro Shop\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://mvpdiscsports.com/#website\",\"url\":\"https://mvpdiscsports.com/\",\"name\":\"MVP Disc Sports\",\"description\":\"The Leading Edge\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mvpdiscsports.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "canonical": "https://mvpdiscsports.com/?brand=mvp-pro-shop",
+      "og_locale": "en_US",
+      "og_site_name": "MVP Disc Sports",
+      "og_title": "MVP Pro Shop Archives - MVP Disc Sports",
+      "og_type": "article",
+      "og_url": "https://mvpdiscsports.com/?brand=mvp-pro-shop",
+      "robots": {
+        "follow": "follow",
+        "index": "index",
+        "max-image-preview": "max-image-preview:large",
+        "max-snippet": "max-snippet:-1",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvp-pro-shop",
+            "@type": "CollectionPage",
+            "breadcrumb": {
+              "@id": "https://mvpdiscsports.com/?brand=mvp-pro-shop#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://mvpdiscsports.com/#website"
+            },
+            "name": "MVP Pro Shop Archives - MVP Disc Sports",
+            "url": "https://mvpdiscsports.com/?brand=mvp-pro-shop"
+          },
+          {
+            "@id": "https://mvpdiscsports.com/?brand=mvp-pro-shop#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://mvpdiscsports.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "MVP Pro Shop",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://mvpdiscsports.com/#website",
+            "@type": "WebSite",
+            "description": "The Leading Edge",
+            "inLanguage": "en-US",
+            "name": "MVP Disc Sports",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mvpdiscsports.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "url": "https://mvpdiscsports.com/"
+          }
+        ]
+      },
+      "title": "MVP Pro Shop Archives - MVP Disc Sports",
+      "twitter_card": "summary_large_image"
+    }
   }
 ]

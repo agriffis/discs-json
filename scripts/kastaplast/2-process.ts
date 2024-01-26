@@ -1,10 +1,10 @@
 /**
- * Process the TSA HTML.
+ * Process the Kastaplast HTML.
  */
 import * as cheerio from 'cheerio'
-import * as assets from './lib/assets'
-import {processed, scraped} from './lib/mint'
-import {Disc} from './lib/types'
+import * as assets from '../lib/assets.ts'
+import {processed, scraped} from '../lib/kastaplast.ts'
+import {Disc} from '../lib/types.ts'
 
 const splitNums = (s: string) => {
   const nums = [...s.matchAll(/[-+]?\b(?:\d+[.,]\d+|\d+|[.,]\d+)\b/g)]
@@ -19,21 +19,18 @@ const splitNums = (s: string) => {
 async function main() {
   const html = await assets.read(scraped.discs)
   const $ = cheerio.load(html, null, false)
-  const discs: Disc[] = $('title')
+  const discs: Disc[] = $('h1')
+    .filter(function () {
+      return !/mini/i.test($(this).text())
+    })
     .map(function () {
       const mold = $(this).text().trim()
       const numString = $(this)
-        .next()
-        .children()
-        .filter(function () {
-          console.log(mold)
-          console.log($(this).text())
-          // Profit doesn't mention speed...?
-          return /glide.*turn.*fade/is.test($(this).text())
-        })
+        .siblings('.wrap')
+        .children(':contains("Flight specs:")')
         .text()
       const [speed, glide, turn, fade] = splitNums(numString)
-      return {maker: 'mint', plastic: '', mold, speed, glide, turn, fade}
+      return {maker: 'kastaplast', plastic: '', mold, speed, glide, turn, fade}
     })
     .toArray()
   await assets.writeJson(processed.discs, discs)

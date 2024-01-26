@@ -1,21 +1,42 @@
 import fs from 'fs/promises'
 import * as R from 'rambdax'
-import * as assets from './lib/assets'
-import * as discmania from './lib/discmania'
-import * as discraft from './lib/discraft'
-import * as innova from './lib/innova'
-import * as kastaplast from './lib/kastaplast'
-import * as mint from './lib/mint'
-import * as mvp from './lib/mvp'
-import * as trilogy from './lib/trilogy'
-import * as tsa from './lib/tsa'
-import {Disc, DiscEntry} from './lib/types'
+import * as assets from './lib/assets.ts'
+import * as discmania from './lib/discmania.ts'
+import * as discraft from './lib/discraft.ts'
+import * as innova from './lib/innova.ts'
+import * as kastaplast from './lib/kastaplast.ts'
+import * as mint from './lib/mint.ts'
+import * as mvp from './lib/mvp.ts'
+import * as trilogy from './lib/trilogy.ts'
+import * as tsa from './lib/tsa.ts'
+import {Disc, DiscEntry} from './lib/types.ts'
 
 // https://www.30secondsofcode.org/js/s/remove-accents
 const _removeAccents = (s: string) =>
   s.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 
-const normalize = (s: string) => s.trim()
+const normalizeString = (s: string) => s.trim()
+
+/* Omit extra fields (such as InnovaDisc.link), simplify the string fields, and
+ * put them in order, so that R.groupBy(JSON.stringify) works properly.
+ */
+const normalizeDisc = <T extends Disc>({
+  maker,
+  mold,
+  plastic,
+  speed,
+  glide,
+  turn,
+  fade,
+}: T): Disc => ({
+  maker: normalizeString(maker),
+  mold: normalizeString(mold),
+  plastic: normalizeString(plastic),
+  speed,
+  glide,
+  turn,
+  fade,
+})
 
 async function main() {
   const allDiscs: Disc[] = (
@@ -31,18 +52,7 @@ async function main() {
     ])
   )
     .flat()
-    // Omit extra fields (such as InnovaDisc.link) and put them in order, so
-    // that R.groupBy(JSON.stringify) works properly.
-    .map<Disc>(
-      R.pick(['maker', 'mold', 'plastic', 'speed', 'glide', 'turn', 'fade']),
-    )
-    // Simplify the string fields.
-    .map<Disc>(d => ({
-      ...d,
-      maker: normalize(d.maker),
-      mold: normalize(d.mold),
-      plastic: normalize(d.plastic),
-    }))
+    .map(normalizeDisc)
 
   const plastics = R.piped(
     allDiscs.map(d => d.plastic),

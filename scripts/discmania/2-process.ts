@@ -2,9 +2,9 @@
  * Process the Discmania HTML.
  */
 import * as cheerio from 'cheerio'
-import * as assets from './lib/assets'
-import {processed, scraped} from './lib/discmania'
-import {Disc} from './lib/types'
+import * as assets from '../lib/assets.ts'
+import {processed, scraped} from '../lib/discmania.ts'
+import {Disc} from '../lib/types.ts'
 
 const splitNums = (s: string) => {
   const nums = [...s.matchAll(/[-+]?\b(?:\d+[.]\d+|\d+|[.]\d+)\b/g)].map(m =>
@@ -27,7 +27,7 @@ async function main() {
       const t = $(this).text()
       const mold = t.split(/\s+[^\s\w]/)[0]
       const [speed, glide, turn, fade] = splitNums(t)
-      return {maker: 'discmania', plastic: '', mold, speed, glide, turn, fade}
+      return {maker: 'Discmania', plastic: '', mold, speed, glide, turn, fade}
     })
     .toArray()
   await assets.writeJson(processed.discs, discs)

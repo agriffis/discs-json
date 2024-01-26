@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio'
 import * as R from 'rambdax'
-import {assert, get, myJsons} from './lib'
-import * as assets from './lib/assets'
+import {assert, get, myJsons} from '../lib/index.ts'
+import * as assets from '../lib/assets.ts'
 import {
   InnovaDisc,
   InnovaMold,
@@ -11,7 +11,7 @@ import {
   processed,
   pseudoMolds,
   scraped,
-} from './lib/innova'
+} from '../lib/innova.ts'
 
 type PlasticsTable = {[K in PlasticId]: InnovaPlastic}
 
@@ -37,7 +37,13 @@ async function processPlastics(): Promise<PlasticsTable> {
   const pids = $('.plastic-nav a img[id]')
     .map((_i, el) => $(el).attr('id'))
     .toArray()
-    .concat(['jk pro', 'kc pro', 'yeti pro']) as PlasticId[]
+    .concat([
+      'jk pro',
+      'kc pro',
+      'yeti pro',
+      'nexus',
+      'halo star',
+    ]) as PlasticId[]
   assert(
     pids.length === Object.keys(plasticNames).length,
     `unexpected pids length`,

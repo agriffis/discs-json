@@ -1,4 +1,4 @@
-import {Disc} from './types'
+import {Disc} from './types.ts'
 
 //----------------------------------------------------------------------
 // Scraped types (sparse)
@@ -165,8 +165,8 @@ export const derivePlasticVariant = (plastic: string, url: string): string => {
       return words.includes('soft')
         ? `${plastic} Soft`
         : words.includes('firm')
-        ? `${plastic} Firm`
-        : plastic
+          ? `${plastic} Firm`
+          : plastic
     }
     case 'Neutron':
     case 'Cosmic Neutron': {
@@ -179,7 +179,7 @@ export const derivePlasticVariant = (plastic: string, url: string): string => {
 }
 
 export const deriveBasePlastic = (variant: string) =>
-  variant.replace(/\s+(?Firm|Soft)$/, '')
+  variant.replace(/\s+(?:Firm|Soft)$/, '')
 
 export const splitPlastic = (
   nameWithMaker: string,

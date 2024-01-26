@@ -3,7 +3,7 @@
     "fade": 1,
     "glide": 3,
     "maker": "tsa",
-    "mold": "PRAXIS",
+    "mold": "Praxis",
     "plastic": "",
     "speed": 3,
     "turn": 0
@@ -12,7 +12,7 @@
     "fade": 1,
     "glide": 3,
     "maker": "tsa",
-    "mold": "ALTER",
+    "mold": "Alter",
     "plastic": "",
     "speed": 3,
     "turn": 0
@@ -21,7 +21,7 @@
     "fade": 2,
     "glide": 3,
     "maker": "tsa",
-    "mold": "MUSE",
+    "mold": "Muse",
     "plastic": "",
     "speed": 3,
     "turn": 0
@@ -30,7 +30,7 @@
     "fade": 3,
     "glide": 3,
     "maker": "tsa",
-    "mold": "TEMPLE",
+    "mold": "Temple",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -39,7 +39,7 @@
     "fade": 1,
     "glide": 5,
     "maker": "tsa",
-    "mold": "PATHFINDER",
+    "mold": "Pathfinder",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -48,7 +48,7 @@
     "fade": 1,
     "glide": 5,
     "maker": "tsa",
-    "mold": "MANA",
+    "mold": "Mana",
     "plastic": "",
     "speed": 5,
     "turn": -2
@@ -57,7 +57,7 @@
     "fade": 3,
     "glide": 5,
     "maker": "tsa",
-    "mold": "VOTUM",
+    "mold": "Votum",
     "plastic": "",
     "speed": 7,
     "turn": 0
@@ -66,7 +66,7 @@
     "fade": 4,
     "glide": 4,
     "maker": "tsa",
-    "mold": "OMEN",
+    "mold": "Omen",
     "plastic": "",
     "speed": 9,
     "turn": 0
@@ -75,7 +75,7 @@
     "fade": 1,
     "glide": 6,
     "maker": "tsa",
-    "mold": "MANTRA",
+    "mold": "Mantra",
     "plastic": "",
     "speed": 9,
     "turn": -2
@@ -84,7 +84,7 @@
     "fade": 3,
     "glide": 5,
     "maker": "tsa",
-    "mold": "COALESCE",
+    "mold": "Coalesce",
     "plastic": "",
     "speed": 9,
     "turn": 0

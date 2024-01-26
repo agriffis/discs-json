@@ -2,8 +2,8 @@
   {
     "fade": 4,
     "glide": 5,
-    "maker": "westside",
-    "mold": "adder",
+    "maker": "Westside",
+    "mold": "Adder",
     "plastic": "",
     "speed": 13,
     "turn": 0
@@ -11,8 +11,8 @@
   {
     "fade": 1,
     "glide": 3,
-    "maker": "dynamic",
-    "mold": "agent",
+    "maker": "Dynamic Discs",
+    "mold": "Agent",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -20,8 +20,8 @@
   {
     "fade": 4,
     "glide": 3,
-    "maker": "westside",
-    "mold": "ahti",
+    "maker": "Westside",
+    "mold": "Ahti",
     "plastic": "",
     "speed": 9,
     "turn": 0
@@ -29,8 +29,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "anchor",
+    "maker": "Latitude 64",
+    "mold": "Anchor",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -38,8 +38,8 @@
   {
     "fade": 4,
     "glide": 2,
-    "maker": "westside",
-    "mold": "anvil",
+    "maker": "Westside",
+    "mold": "Anvil",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -47,8 +47,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "ballista",
+    "maker": "Latitude 64",
+    "mold": "Ballista",
     "plastic": "",
     "speed": 14,
     "turn": -1
@@ -56,8 +56,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "ballista pro",
+    "maker": "Latitude 64",
+    "mold": "Ballista Pro",
     "plastic": "",
     "speed": 14,
     "turn": 0
@@ -65,8 +65,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "westside",
-    "mold": "bard",
+    "maker": "Westside",
+    "mold": "Bard",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -74,8 +74,8 @@
   {
     "fade": 2.5,
     "glide": 6,
-    "maker": "westside",
-    "mold": "bear",
+    "maker": "Westside",
+    "mold": "Bear",
     "plastic": "",
     "speed": 8,
     "turn": -0.5
@@ -83,8 +83,8 @@
   {
     "fade": 0,
     "glide": 7,
-    "maker": "latitude",
-    "mold": "beetle",
+    "maker": "Latitude 64",
+    "mold": "Beetle",
     "plastic": "",
     "speed": 1,
     "turn": -1
@@ -92,8 +92,8 @@
   {
     "fade": 0,
     "glide": 7,
-    "maker": "latitude",
-    "mold": "bite",
+    "maker": "Latitude 64",
+    "mold": "Bite",
     "plastic": "",
     "speed": 1,
     "turn": -1
@@ -101,8 +101,8 @@
   {
     "fade": 4,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "blitz",
+    "maker": "Latitude 64",
+    "mold": "Blitz",
     "plastic": "",
     "speed": 11,
     "turn": 0
@@ -110,8 +110,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "westside",
-    "mold": "boatman",
+    "maker": "Westside",
+    "mold": "Boatman",
     "plastic": "",
     "speed": 11,
     "turn": 0
@@ -119,8 +119,8 @@
   {
     "fade": 3,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "bolt",
+    "maker": "Latitude 64",
+    "mold": "Bolt",
     "plastic": "",
     "speed": 13,
     "turn": -2
@@ -128,8 +128,8 @@
   {
     "fade": 0.5,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "bounty",
+    "maker": "Dynamic Discs",
+    "mold": "Bounty",
     "plastic": "",
     "speed": 4,
     "turn": -1.5
@@ -137,8 +137,8 @@
   {
     "fade": 1.5,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "breakout",
+    "maker": "Dynamic Discs",
+    "mold": "Breakout",
     "plastic": "",
     "speed": 8,
     "turn": -1
@@ -146,8 +146,8 @@
   {
     "fade": 2,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "bryce",
+    "maker": "Latitude 64",
+    "mold": "Bryce",
     "plastic": "",
     "speed": 9,
     "turn": -2
@@ -155,8 +155,8 @@
   {
     "fade": 2,
     "glide": 2,
-    "maker": "latitude",
-    "mold": "caltrop",
+    "maker": "Latitude 64",
+    "mold": "Caltrop",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -164,8 +164,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "captain",
+    "maker": "Dynamic Discs",
+    "mold": "Captain",
     "plastic": "",
     "speed": 13,
     "turn": -2
@@ -173,8 +173,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "westside",
-    "mold": "catapult",
+    "maker": "Westside",
+    "mold": "Catapult",
     "plastic": "",
     "speed": 14,
     "turn": -0.5
@@ -182,8 +182,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "claymore",
+    "maker": "Latitude 64",
+    "mold": "Claymore",
     "plastic": "",
     "speed": 5,
     "turn": -1
@@ -191,8 +191,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "compass",
+    "maker": "Latitude 64",
+    "mold": "Compass",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -200,8 +200,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "convict",
+    "maker": "Dynamic Discs",
+    "mold": "Convict",
     "plastic": "",
     "speed": 9,
     "turn": -0.5
@@ -209,8 +209,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "core",
+    "maker": "Latitude 64",
+    "mold": "Core",
     "plastic": "",
     "speed": 6,
     "turn": -0.5
@@ -218,8 +218,8 @@
   {
     "fade": 4,
     "glide": 3,
-    "maker": "dynamic",
-    "mold": "criminal",
+    "maker": "Dynamic Discs",
+    "mold": "Criminal",
     "plastic": "",
     "speed": 10,
     "turn": 1
@@ -227,8 +227,8 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "westside",
-    "mold": "crown",
+    "maker": "Westside",
+    "mold": "Crown",
     "plastic": "",
     "speed": 3,
     "turn": 0
@@ -236,8 +236,8 @@
   {
     "fade": 3.5,
     "glide": 2,
-    "maker": "dynamic",
-    "mold": "culprit",
+    "maker": "Dynamic Discs",
+    "mold": "Culprit",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -245,8 +245,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "culverin",
+    "maker": "Latitude 64",
+    "mold": "Culverin",
     "plastic": "",
     "speed": 9,
     "turn": -0.5
@@ -254,8 +254,8 @@
   {
     "fade": 3.5,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "cutlass",
+    "maker": "Latitude 64",
+    "mold": "Cutlass",
     "plastic": "",
     "speed": 13,
     "turn": 0
@@ -263,8 +263,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "dagger",
+    "maker": "Latitude 64",
+    "mold": "Dagger",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -272,8 +272,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "defender",
+    "maker": "Dynamic Discs",
+    "mold": "Defender",
     "plastic": "",
     "speed": 13,
     "turn": 0
@@ -281,8 +281,8 @@
   {
     "fade": 0,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "deputy",
+    "maker": "Dynamic Discs",
+    "mold": "Deputy",
     "plastic": "",
     "speed": 3,
     "turn": -1.5
@@ -290,8 +290,8 @@
   {
     "fade": 3,
     "glide": 6,
-    "maker": "westside",
-    "mold": "destiny",
+    "maker": "Westside",
+    "mold": "Destiny",
     "plastic": "",
     "speed": 14,
     "turn": -2
@@ -299,8 +299,8 @@
   {
     "fade": 1,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "diamond",
+    "maker": "Latitude 64",
+    "mold": "Diamond",
     "plastic": "",
     "speed": 8,
     "turn": -3
@@ -308,8 +308,8 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "emac judge",
+    "maker": "Dynamic Discs",
+    "mold": "Emac Judge",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -317,8 +317,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "emac truth",
+    "maker": "Dynamic Discs",
+    "mold": "Emac Truth",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -326,8 +326,8 @@
   {
     "fade": 4,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "enforcer",
+    "maker": "Dynamic Discs",
+    "mold": "Enforcer",
     "plastic": "",
     "speed": 12,
     "turn": 0.5
@@ -335,8 +335,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "escape",
+    "maker": "Dynamic Discs",
+    "mold": "Escape",
     "plastic": "",
     "speed": 9,
     "turn": -1
@@ -344,8 +344,8 @@
   {
     "fade": 2.5,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "evader",
+    "maker": "Dynamic Discs",
+    "mold": "Evader",
     "plastic": "",
     "speed": 7,
     "turn": 0
@@ -353,8 +353,8 @@
   {
     "fade": 0,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "evidence",
+    "maker": "Dynamic Discs",
+    "mold": "Evidence",
     "plastic": "",
     "speed": 5,
     "turn": -1
@@ -362,8 +362,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "explorer",
+    "maker": "Latitude 64",
+    "mold": "Explorer",
     "plastic": "",
     "speed": 7,
     "turn": 0
@@ -371,8 +371,8 @@
   {
     "fade": 1,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "faith",
+    "maker": "Latitude 64",
+    "mold": "Faith",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -380,8 +380,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "falchion",
+    "maker": "Latitude 64",
+    "mold": "Falchion",
     "plastic": "",
     "speed": 8,
     "turn": -1
@@ -389,8 +389,8 @@
   {
     "fade": 4,
     "glide": 3,
-    "maker": "dynamic",
-    "mold": "felon",
+    "maker": "Dynamic Discs",
+    "mold": "Felon",
     "plastic": "",
     "speed": 9,
     "turn": 0.5
@@ -398,8 +398,8 @@
   {
     "fade": 2,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "flow",
+    "maker": "Latitude 64",
+    "mold": "Flow",
     "plastic": "",
     "speed": 11,
     "turn": -0.5
@@ -407,8 +407,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "westside",
-    "mold": "fortress",
+    "maker": "Westside",
+    "mold": "Fortress",
     "plastic": "",
     "speed": 10,
     "turn": 0
@@ -416,8 +416,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "freedom",
+    "maker": "Dynamic Discs",
+    "mold": "Freedom",
     "plastic": "",
     "speed": 14,
     "turn": -3
@@ -425,8 +425,8 @@
   {
     "fade": 1.5,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "fugitive",
+    "maker": "Dynamic Discs",
+    "mold": "Fugitive",
     "plastic": "",
     "speed": 5,
     "turn": -0.5
@@ -434,8 +434,8 @@
   {
     "fade": 2,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "fuji",
+    "maker": "Latitude 64",
+    "mold": "Fuji",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -443,8 +443,8 @@
   {
     "fade": 2,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "fury",
+    "maker": "Latitude 64",
+    "mold": "Fury",
     "plastic": "",
     "speed": 9,
     "turn": -2
@@ -452,8 +452,8 @@
   {
     "fade": 0,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "fuse",
+    "maker": "Latitude 64",
+    "mold": "Fuse",
     "plastic": "",
     "speed": 5,
     "turn": -1
@@ -461,8 +461,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "westside",
-    "mold": "gatekeeper",
+    "maker": "Westside",
+    "mold": "Gatekeeper",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -470,8 +470,8 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "gauntlet",
+    "maker": "Latitude 64",
+    "mold": "Gauntlet",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -479,8 +479,8 @@
   {
     "fade": 0.5,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "gavel",
+    "maker": "Dynamic Discs",
+    "mold": "Gavel",
     "plastic": "",
     "speed": 3,
     "turn": -2
@@ -488,8 +488,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "getaway",
+    "maker": "Dynamic Discs",
+    "mold": "Getaway",
     "plastic": "",
     "speed": 9,
     "turn": -0.5
@@ -497,8 +497,8 @@
   {
     "fade": 3.5,
     "glide": 4,
-    "maker": "westside",
-    "mold": "giant",
+    "maker": "Westside",
+    "mold": "Giant",
     "plastic": "",
     "speed": 13,
     "turn": 0
@@ -506,8 +506,8 @@
   {
     "fade": 3.5,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "gladiator",
+    "maker": "Latitude 64",
+    "mold": "Gladiator",
     "plastic": "",
     "speed": 13,
     "turn": 0
@@ -515,8 +515,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "glory",
+    "maker": "Latitude 64",
+    "mold": "Glory",
     "plastic": "",
     "speed": 7,
     "turn": 0
@@ -524,8 +524,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "gobi",
+    "maker": "Latitude 64",
+    "mold": "Gobi",
     "plastic": "",
     "speed": 6,
     "turn": -0.5
@@ -533,8 +533,8 @@
   {
     "fade": 2,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "grace",
+    "maker": "Latitude 64",
+    "mold": "Grace",
     "plastic": "",
     "speed": 11,
     "turn": -1
@@ -542,8 +542,8 @@
   {
     "fade": 0.5,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "guard",
+    "maker": "Dynamic Discs",
+    "mold": "Guard",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -551,8 +551,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "halo",
+    "maker": "Latitude 64",
+    "mold": "Halo",
     "plastic": "",
     "speed": 13,
     "turn": -0.5
@@ -560,8 +560,8 @@
   {
     "fade": 3,
     "glide": 3,
-    "maker": "westside",
-    "mold": "harp",
+    "maker": "Westside",
+    "mold": "Harp",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -569,8 +569,8 @@
   {
     "fade": 1,
     "glide": 6,
-    "maker": "westside",
-    "mold": "hatchet",
+    "maker": "Westside",
+    "mold": "Hatchet",
     "plastic": "",
     "speed": 9,
     "turn": -2
@@ -578,17 +578,26 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "havoc",
+    "maker": "Latitude 64",
+    "mold": "Havoc",
     "plastic": "",
     "speed": 13,
     "turn": -1
   },
   {
+    "fade": 2.5,
+    "glide": 5,
+    "maker": "Latitude 64",
+    "mold": "Honor",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0
+  },
+  {
     "fade": 1,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "hope",
+    "maker": "Latitude 64",
+    "mold": "Hope",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -596,8 +605,8 @@
   {
     "fade": 1,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "jade",
+    "maker": "Latitude 64",
+    "mold": "Jade",
     "plastic": "",
     "speed": 9,
     "turn": -2
@@ -605,8 +614,8 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "judge",
+    "maker": "Dynamic Discs",
+    "mold": "Judge",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -614,8 +623,8 @@
   {
     "fade": 4,
     "glide": 1,
-    "maker": "dynamic",
-    "mold": "justice",
+    "maker": "Dynamic Discs",
+    "mold": "Justice",
     "plastic": "",
     "speed": 5,
     "turn": 0.5
@@ -623,8 +632,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "keystone",
+    "maker": "Latitude 64",
+    "mold": "Keystone",
     "plastic": "",
     "speed": 2,
     "turn": -1
@@ -632,8 +641,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "westside",
-    "mold": "king",
+    "maker": "Westside",
+    "mold": "King",
     "plastic": "",
     "speed": 14,
     "turn": -1.5
@@ -641,8 +650,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "knight",
+    "maker": "Latitude 64",
+    "mold": "Knight",
     "plastic": "",
     "speed": 14,
     "turn": -1.5
@@ -650,8 +659,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "westside",
-    "mold": "longbowman",
+    "maker": "Westside",
+    "mold": "Longbowman",
     "plastic": "",
     "speed": 9,
     "turn": 0
@@ -659,8 +668,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "macana",
+    "maker": "Latitude 64",
+    "mold": "Macana",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -668,8 +677,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "mace",
+    "maker": "Latitude 64",
+    "mold": "Mace",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -677,8 +686,8 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "westside",
-    "mold": "maiden",
+    "maker": "Westside",
+    "mold": "Maiden",
     "plastic": "",
     "speed": 3,
     "turn": 0
@@ -686,8 +695,8 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "marshal",
+    "maker": "Dynamic Discs",
+    "mold": "Marshal",
     "plastic": "",
     "speed": 3,
     "turn": 0
@@ -695,8 +704,8 @@
   {
     "fade": 1,
     "glide": 7,
-    "maker": "latitude",
-    "mold": "maul",
+    "maker": "Latitude 64",
+    "mold": "Maul",
     "plastic": "",
     "speed": 7,
     "turn": -2
@@ -704,8 +713,8 @@
   {
     "fade": 2,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "maverick",
+    "maker": "Dynamic Discs",
+    "mold": "Maverick",
     "plastic": "",
     "speed": 7,
     "turn": -1.5
@@ -713,8 +722,8 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "mercy",
+    "maker": "Latitude 64",
+    "mold": "Mercy",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -722,8 +731,8 @@
   {
     "fade": 4.5,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "missilen",
+    "maker": "Latitude 64",
+    "mold": "Missilen",
     "plastic": "",
     "speed": 15,
     "turn": -0.5
@@ -731,8 +740,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "musket",
+    "maker": "Latitude 64",
+    "mold": "Musket",
     "plastic": "",
     "speed": 10,
     "turn": -0.5
@@ -740,8 +749,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "westside",
-    "mold": "northman",
+    "maker": "Westside",
+    "mold": "Northman",
     "plastic": "",
     "speed": 10,
     "turn": -1
@@ -749,8 +758,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "pain",
+    "maker": "Latitude 64",
+    "mold": "Pain",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -758,8 +767,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "patrol",
+    "maker": "Dynamic Discs",
+    "mold": "Patrol",
     "plastic": "",
     "speed": 5,
     "turn": -3
@@ -767,8 +776,8 @@
   {
     "fade": 0,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "pearl",
+    "maker": "Latitude 64",
+    "mold": "Pearl",
     "plastic": "",
     "speed": 4,
     "turn": -4
@@ -776,8 +785,8 @@
   {
     "fade": 2,
     "glide": 4,
-    "maker": "westside",
-    "mold": "pine",
+    "maker": "Westside",
+    "mold": "Pine",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -785,8 +794,8 @@
   {
     "fade": 4,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "pioneer",
+    "maker": "Latitude 64",
+    "mold": "Pioneer",
     "plastic": "",
     "speed": 9,
     "turn": 0
@@ -794,8 +803,8 @@
   {
     "fade": 1,
     "glide": 6,
-    "maker": "dynamic",
-    "mold": "proof",
+    "maker": "Dynamic Discs",
+    "mold": "Proof",
     "plastic": "",
     "speed": 5,
     "turn": -3
@@ -803,8 +812,8 @@
   {
     "fade": 1,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "pure",
+    "maker": "Latitude 64",
+    "mold": "Pure",
     "plastic": "",
     "speed": 3,
     "turn": -1
@@ -812,8 +821,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "westside",
-    "mold": "queen",
+    "maker": "Westside",
+    "mold": "Queen",
     "plastic": "",
     "speed": 14,
     "turn": -3
@@ -821,8 +830,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "raider",
+    "maker": "Dynamic Discs",
+    "mold": "Raider",
     "plastic": "",
     "speed": 13,
     "turn": -0.5
@@ -830,8 +839,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "raketen",
+    "maker": "Latitude 64",
+    "mold": "Raketen",
     "plastic": "",
     "speed": 15,
     "turn": -2
@@ -839,8 +848,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "recoil",
+    "maker": "Latitude 64",
+    "mold": "Recoil",
     "plastic": "",
     "speed": 12,
     "turn": 0
@@ -848,8 +857,8 @@
   {
     "fade": 2.5,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "renegade",
+    "maker": "Dynamic Discs",
+    "mold": "Renegade",
     "plastic": "",
     "speed": 11,
     "turn": -1.5
@@ -857,8 +866,8 @@
   {
     "fade": 2,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "riot",
+    "maker": "Latitude 64",
+    "mold": "Riot",
     "plastic": "",
     "speed": 11,
     "turn": -1
@@ -866,8 +875,8 @@
   {
     "fade": 3.5,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "rive",
+    "maker": "Latitude 64",
+    "mold": "Rive",
     "plastic": "",
     "speed": 13,
     "turn": 0
@@ -875,8 +884,8 @@
   {
     "fade": 1,
     "glide": 7,
-    "maker": "latitude",
-    "mold": "river",
+    "maker": "Latitude 64",
+    "mold": "River",
     "plastic": "",
     "speed": 7,
     "turn": -1
@@ -884,8 +893,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "river pro",
+    "maker": "Latitude 64",
+    "mold": "River Pro",
     "plastic": "",
     "speed": 6,
     "turn": 0
@@ -893,170 +902,17 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "ruby",
+    "maker": "Latitude 64",
+    "mold": "Ruby",
     "plastic": "",
     "speed": 3,
     "turn": -3
   },
   {
-    "fade": 2,
-    "glide": 7,
-    "maker": "latitude",
-    "mold": "saint",
-    "plastic": "",
-    "speed": 9,
-    "turn": -1
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "latitude",
-    "mold": "saint pro",
-    "plastic": "",
-    "speed": 8,
-    "turn": -0.5
-  },
-  {
-    "fade": 2,
-    "glide": 4,
-    "maker": "westside",
-    "mold": "sampo",
-    "plastic": "",
-    "speed": 10,
-    "turn": -1
-  },
-  {
-    "fade": 1.5,
-    "glide": 6,
-    "maker": "latitude",
-    "mold": "sapphire",
-    "plastic": "",
-    "speed": 10,
-    "turn": -2
-  },
-  {
-    "fade": 1.5,
-    "glide": 4,
-    "maker": "latitude",
-    "mold": "sarek",
-    "plastic": "",
-    "speed": 2,
-    "turn": 0
-  },
-  {
-    "fade": 4,
-    "glide": 3,
-    "maker": "latitude",
-    "mold": "scythe",
-    "plastic": "",
-    "speed": 12,
-    "turn": 0
-  },
-  {
-    "fade": 1,
-    "glide": 5,
-    "maker": "westside",
-    "mold": "seer",
-    "plastic": "",
-    "speed": 7,
-    "turn": -2
-  },
-  {
-    "fade": 2.5,
-    "glide": 4,
-    "maker": "dynamic",
-    "mold": "sergeant",
-    "plastic": "",
-    "speed": 11,
-    "turn": 0
-  },
-  {
-    "fade": 2,
-    "glide": 5,
-    "maker": "dynamic",
-    "mold": "sheriff",
-    "plastic": "",
-    "speed": 13,
-    "turn": -1
-  },
-  {
     "fade": 1,
     "glide": 3,
-    "maker": "westside",
-    "mold": "shield",
-    "plastic": "",
-    "speed": 3,
-    "turn": 0
-  },
-  {
-    "fade": 2,
-    "glide": 2,
-    "maker": "latitude",
-    "mold": "sinus",
-    "plastic": "",
-    "speed": 2,
-    "turn": 0
-  },
-  {
-    "fade": 3,
-    "glide": 2,
-    "maker": "dynamic",
-    "mold": "slammer",
-    "plastic": "",
-    "speed": 3,
-    "turn": 0
-  },
-  {
-    "fade": 1,
-    "glide": 5,
-    "maker": "westside",
-    "mold": "sling",
-    "plastic": "",
-    "speed": 5,
-    "turn": 0
-  },
-  {
-    "fade": 4,
-    "glide": 1,
-    "maker": "dynamic",
-    "mold": "sockibomb slammer",
-    "plastic": "",
-    "speed": 3,
-    "turn": 0.5
-  },
-  {
-    "fade": 3,
-    "glide": 5,
-    "maker": "westside",
-    "mold": "sorcerer",
-    "plastic": "",
-    "speed": 13,
-    "turn": -0.5
-  },
-  {
-    "fade": 3,
-    "glide": 4,
-    "maker": "latitude",
-    "mold": "spark",
-    "plastic": "",
-    "speed": 7,
-    "turn": -0.5
-  },
-  {
-    "fade": 1,
-    "glide": 3,
-    "maker": "latitude",
-    "mold": "spike",
-    "plastic": "",
-    "speed": 4,
-    "turn": -1
-  },
-  {
-    "fade": 1,
-    "glide": 3,
-    "maker": "latitude",
-    "mold": "spz1 (zombie)",
+    "maker": "Latitude 64",
+    "mold": "SPZ1 (Zombie)",
     "plastic": "",
     "speed": 3,
     "turn": -2
@@ -1064,8 +920,8 @@
   {
     "fade": 0,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "spz2 (pirate)",
+    "maker": "Latitude 64",
+    "mold": "SPZ2 (Pirate)",
     "plastic": "",
     "speed": 5,
     "turn": -2
@@ -1073,17 +929,188 @@
   {
     "fade": 2,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "spz3 (superhero)",
+    "maker": "Latitude 64",
+    "mold": "SPZ3 (Superhero)",
     "plastic": "",
     "speed": 9,
     "turn": -2
   },
   {
     "fade": 2,
+    "glide": 7,
+    "maker": "Latitude 64",
+    "mold": "Saint",
+    "plastic": "",
+    "speed": 9,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "Latitude 64",
+    "mold": "Saint Pro",
+    "plastic": "",
+    "speed": 8,
+    "turn": -0.5
+  },
+  {
+    "fade": 2,
+    "glide": 4,
+    "maker": "Westside",
+    "mold": "Sampo",
+    "plastic": "",
+    "speed": 10,
+    "turn": -1
+  },
+  {
+    "fade": 1.5,
     "glide": 6,
-    "maker": "westside",
-    "mold": "stag",
+    "maker": "Latitude 64",
+    "mold": "Sapphire",
+    "plastic": "",
+    "speed": 10,
+    "turn": -2
+  },
+  {
+    "fade": 1.5,
+    "glide": 4,
+    "maker": "Latitude 64",
+    "mold": "Sarek",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 3,
+    "maker": "Latitude 64",
+    "mold": "Savior",
+    "plastic": "",
+    "speed": 4,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "Latitude 64",
+    "mold": "Scythe",
+    "plastic": "",
+    "speed": 12,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "Westside",
+    "mold": "Seer",
+    "plastic": "",
+    "speed": 7,
+    "turn": -2
+  },
+  {
+    "fade": 2.5,
+    "glide": 4,
+    "maker": "Dynamic Discs",
+    "mold": "Sergeant",
+    "plastic": "",
+    "speed": 11,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "Dynamic Discs",
+    "mold": "Sheriff",
+    "plastic": "",
+    "speed": 13,
+    "turn": -1
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "Westside",
+    "mold": "Shield",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 2,
+    "maker": "Latitude 64",
+    "mold": "Sinus",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 3,
+    "glide": 2,
+    "maker": "Dynamic Discs",
+    "mold": "Slammer",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "Westside",
+    "mold": "Sling",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 4,
+    "glide": 4,
+    "maker": "Dynamic Discs",
+    "mold": "Sockibomb Felon",
+    "plastic": "",
+    "speed": 9,
+    "turn": 0.5
+  },
+  {
+    "fade": 4,
+    "glide": 1,
+    "maker": "Dynamic Discs",
+    "mold": "Sockibomb Slammer",
+    "plastic": "",
+    "speed": 3,
+    "turn": 0.5
+  },
+  {
+    "fade": 3,
+    "glide": 5,
+    "maker": "Westside",
+    "mold": "Sorcerer",
+    "plastic": "",
+    "speed": 13,
+    "turn": -0.5
+  },
+  {
+    "fade": 3,
+    "glide": 4,
+    "maker": "Latitude 64",
+    "mold": "Spark",
+    "plastic": "",
+    "speed": 7,
+    "turn": -0.5
+  },
+  {
+    "fade": 1,
+    "glide": 3,
+    "maker": "Latitude 64",
+    "mold": "Spike",
+    "plastic": "",
+    "speed": 4,
+    "turn": -1
+  },
+  {
+    "fade": 2,
+    "glide": 6,
+    "maker": "Westside",
+    "mold": "Stag",
     "plastic": "",
     "speed": 8,
     "turn": -1
@@ -1091,8 +1118,8 @@
   {
     "fade": 5,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "stiletto",
+    "maker": "Latitude 64",
+    "mold": "Stiletto",
     "plastic": "",
     "speed": 13,
     "turn": 0.5
@@ -1100,17 +1127,53 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "striker",
+    "maker": "Latitude 64",
+    "mold": "Striker",
     "plastic": "",
     "speed": 8,
     "turn": 0
   },
   {
+    "fade": 2,
+    "glide": 5,
+    "maker": "Dynamic Discs",
+    "mold": "Supreme Escape",
+    "plastic": "",
+    "speed": 9,
+    "turn": -1
+  },
+  {
+    "fade": 4,
+    "glide": 3,
+    "maker": "Dynamic Discs",
+    "mold": "Supreme Fugitive",
+    "plastic": "",
+    "speed": 5,
+    "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 4,
+    "maker": "Dynamic Discs",
+    "mold": "Supreme Judge",
+    "plastic": "",
+    "speed": 2,
+    "turn": 0
+  },
+  {
+    "fade": 2,
+    "glide": 5,
+    "maker": "Dynamic Discs",
+    "mold": "Supreme Trespass",
+    "plastic": "",
+    "speed": 12,
+    "turn": -0.5
+  },
+  {
     "fade": 3,
     "glide": 3,
-    "maker": "dynamic",
-    "mold": "suspect",
+    "maker": "Dynamic Discs",
+    "mold": "Suspect",
     "plastic": "",
     "speed": 4,
     "turn": 0
@@ -1118,8 +1181,8 @@
   {
     "fade": 0,
     "glide": 3,
-    "maker": "westside",
-    "mold": "swan 1 reborn",
+    "maker": "Westside",
+    "mold": "Swan 1 Reborn",
     "plastic": "",
     "speed": 3,
     "turn": -2.5
@@ -1127,8 +1190,8 @@
   {
     "fade": 0,
     "glide": 3,
-    "maker": "westside",
-    "mold": "swan 2",
+    "maker": "Westside",
+    "mold": "Swan 2",
     "plastic": "",
     "speed": 3,
     "turn": -1
@@ -1136,8 +1199,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "westside",
-    "mold": "sword",
+    "maker": "Westside",
+    "mold": "Sword",
     "plastic": "",
     "speed": 12,
     "turn": -0.5
@@ -1145,8 +1208,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "thief",
+    "maker": "Dynamic Discs",
+    "mold": "Thief",
     "plastic": "",
     "speed": 8,
     "turn": -1.5
@@ -1154,8 +1217,8 @@
   {
     "fade": 3,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "trespass",
+    "maker": "Dynamic Discs",
+    "mold": "Trespass",
     "plastic": "",
     "speed": 12,
     "turn": -0.5
@@ -1163,8 +1226,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "trident",
+    "maker": "Latitude 64",
+    "mold": "Trident",
     "plastic": "",
     "speed": 6,
     "turn": -0.5
@@ -1172,8 +1235,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "latitude",
-    "mold": "trust",
+    "maker": "Latitude 64",
+    "mold": "Trust",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -1181,8 +1244,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "truth",
+    "maker": "Dynamic Discs",
+    "mold": "Truth",
     "plastic": "",
     "speed": 5,
     "turn": -1
@@ -1190,8 +1253,8 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "westside",
-    "mold": "tursas",
+    "maker": "Westside",
+    "mold": "Tursas",
     "plastic": "",
     "speed": 5,
     "turn": -2
@@ -1199,8 +1262,8 @@
   {
     "fade": 1,
     "glide": 6,
-    "maker": "westside",
-    "mold": "underworld",
+    "maker": "Westside",
+    "mold": "Underworld",
     "plastic": "",
     "speed": 7,
     "turn": -3
@@ -1208,8 +1271,8 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "vandal",
+    "maker": "Dynamic Discs",
+    "mold": "Vandal",
     "plastic": "",
     "speed": 9,
     "turn": -1.5
@@ -1217,8 +1280,8 @@
   {
     "fade": 3.5,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "verdict",
+    "maker": "Dynamic Discs",
+    "mold": "Verdict",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -1226,8 +1289,8 @@
   {
     "fade": 4,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "villain",
+    "maker": "Latitude 64",
+    "mold": "Villain",
     "plastic": "",
     "speed": 12,
     "turn": 0
@@ -1235,8 +1298,8 @@
   {
     "fade": 2,
     "glide": 6,
-    "maker": "latitude",
-    "mold": "vision",
+    "maker": "Latitude 64",
+    "mold": "Vision",
     "plastic": "",
     "speed": 8,
     "turn": -1
@@ -1244,8 +1307,8 @@
   {
     "fade": 4,
     "glide": 4,
-    "maker": "westside",
-    "mold": "war horse",
+    "maker": "Westside",
+    "mold": "War Horse",
     "plastic": "",
     "speed": 13,
     "turn": 0
@@ -1253,8 +1316,8 @@
   {
     "fade": 0.5,
     "glide": 4,
-    "maker": "dynamic",
-    "mold": "warden",
+    "maker": "Dynamic Discs",
+    "mold": "Warden",
     "plastic": "",
     "speed": 2,
     "turn": 0
@@ -1262,8 +1325,8 @@
   {
     "fade": 0,
     "glide": 5,
-    "maker": "dynamic",
-    "mold": "warrant",
+    "maker": "Dynamic Discs",
+    "mold": "Warrant",
     "plastic": "",
     "speed": 5,
     "turn": -2
@@ -1271,8 +1334,8 @@
   {
     "fade": 1,
     "glide": 6,
-    "maker": "westside",
-    "mold": "warship",
+    "maker": "Westside",
+    "mold": "Warship",
     "plastic": "",
     "speed": 5,
     "turn": 0
@@ -1280,8 +1343,8 @@
   {
     "fade": 1,
     "glide": 6,
-    "maker": "dynamic",
-    "mold": "witness",
+    "maker": "Dynamic Discs",
+    "mold": "Witness",
     "plastic": "",
     "speed": 8,
     "turn": -3
@@ -1289,8 +1352,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "westside",
-    "mold": "world",
+    "maker": "Westside",
+    "mold": "World",
     "plastic": "",
     "speed": 14,
     "turn": -0.5
@@ -1298,8 +1361,8 @@
   {
     "fade": 4,
     "glide": 3,
-    "maker": "latitude",
-    "mold": "xxx",
+    "maker": "Latitude 64",
+    "mold": "Xxx",
     "plastic": "",
     "speed": 7,
     "turn": 0
@@ -1307,8 +1370,8 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "latitude",
-    "mold": "zion",
+    "maker": "Latitude 64",
+    "mold": "Zion",
     "plastic": "",
     "speed": 9,
     "turn": -0.5

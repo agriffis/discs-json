@@ -1,10 +1,14 @@
 /**
- * Process the Kastaplast HTML.
+ * Process the TSA HTML.
  */
 import * as cheerio from 'cheerio'
-import * as assets from './lib/assets'
-import {processed, scraped} from './lib/kastaplast'
-import {Disc} from './lib/types'
+import {titleCase} from 'title-case'
+import * as assets from '../lib/assets.ts'
+import {processed, scraped} from '../lib/tsa.ts'
+import {Disc} from '../lib/types.ts'
+
+const normalizeMold = (s: string) =>
+  /[A-Z]/.test(s) && /[a-z]/.test(s) ? s : titleCase(s.toLowerCase())
 
 const splitNums = (s: string) => {
   const nums = [...s.matchAll(/[-+]?\b(?:\d+[.,]\d+|\d+|[.,]\d+)\b/g)]
@@ -19,18 +23,18 @@ const splitNums = (s: string) => {
 async function main() {
   const html = await assets.read(scraped.discs)
   const $ = cheerio.load(html, null, false)
-  const discs: Disc[] = $('h1')
+  const discs: Disc[] = $('.multicolumn-card__info h3')
     .filter(function () {
       return !/mini/i.test($(this).text())
     })
     .map(function () {
-      const mold = $(this).text().trim()
+      const mold = normalizeMold($(this).text().trim())
       const numString = $(this)
-        .siblings('.wrap')
-        .children(':contains("Flight specs:")')
+        .next()
         .text()
+        .replace(/^.*?([\d.]+\s+\|.*\|\s+[\d.]+).*$/s, '$1')
       const [speed, glide, turn, fade] = splitNums(numString)
-      return {maker: 'kastaplast', plastic: '', mold, speed, glide, turn, fade}
+      return {maker: 'tsa', plastic: '', mold, speed, glide, turn, fade}
     })
     .toArray()
   await assets.writeJson(processed.discs, discs)

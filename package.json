@@ -1,28 +1,29 @@
 {
-  "name": "@scampersand/discdb",
+  "name": "@scampersand/discs-json",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "build": "rollup -c"
-  },
   "dependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "@tsconfig/node21": "^21.0.1",
+    "@types/node": "^20.11.6",
     "cheerio": "1.0.0-rc.12",
     "md5": "^2.3.0",
-    "rambdax": "^10.1.0"
-  },
-  "devDependencies": {
-    "@fast-csv/parse": "^4.3.6",
-    "@rollup/plugin-json": "^6.0.0",
-    "@rollup/plugin-node-resolve": "^15.0.1",
-    "@rollup/plugin-terser": "^0.4.0",
-    "@rollup/plugin-typescript": "^11.0.0",
-    "@types/node": "^18.11.10",
-    "dotenv-cli": "^6.0.0",
-    "figlet": "^1.5.2",
-    "figlet-cli": "^0.1.1",
     "prettier": "^3.2.4",
-    "rollup": "^3.17.2",
+    "rambdax": "^10.1.0",
+    "title-case": "^4.3.1",
     "tsx": "^4.7.0",
     "typescript": "^5.3.3"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "bracketSpacing": false,
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "all"
+  },
+  "volta": {
+    "node": "21.6.1",
+    "pnpm": "8.14.3"
   }
 }

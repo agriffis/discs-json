@@ -29,21 +29,6 @@
     ],
     "colors": [
       {
-        "label": "Grey",
-        "slug": "grey",
-        "value": 103
-      },
-      {
-        "label": "Light Orange",
-        "slug": "light-orange",
-        "value": 191
-      },
-      {
-        "label": "Gray",
-        "slug": "gray",
-        "value": 417
-      },
-      {
         "label": "Slate",
         "slug": "slate",
         "value": 104
@@ -262,6 +247,21 @@
         "label": "turquoise",
         "slug": "turquoise",
         "value": 377
+      },
+      {
+        "label": "Grey",
+        "slug": "grey",
+        "value": 103
+      },
+      {
+        "label": "Light Orange",
+        "slug": "light-orange",
+        "value": 191
+      },
+      {
+        "label": "Gray",
+        "slug": "gray",
+        "value": 417
       }
     ],
     "discCategory": "43",
@@ -335,6 +335,11 @@
         "label": "Drift",
         "slug": "drift",
         "value": 7554
+      },
+      {
+        "label": "Echo",
+        "slug": "echo",
+        "value": 25812
       },
       {
         "label": "Energy",
@@ -487,6 +492,11 @@
         "value": 7557
       },
       {
+        "label": "Pixel",
+        "slug": "pixel",
+        "value": 27218
+      },
+      {
         "label": "Proxy",
         "slug": "proxy",
         "value": 7534
@@ -602,6 +612,11 @@
         "value": 7545
       },
       {
+        "label": "Time-Lapse",
+        "slug": "time-lapse",
+        "value": 26745
+      },
+      {
         "label": "Trace",
         "slug": "trace",
         "value": 6726
@@ -635,6 +650,11 @@
         "label": "Volt",
         "slug": "volt",
         "value": 6077
+      },
+      {
+        "label": "Watt",
+        "slug": "watt",
+        "value": 26083
       },
       {
         "label": "Wave",
@@ -734,22 +754,17 @@
         "value": 6090
       },
       {
-        "label": "MVP Eclipse 2.0",
-        "slug": "mvp-eclipse-2-0",
-        "value": 18142
-      },
-      {
         "label": "Axiom Eclipse",
         "slug": "axiom-eclipse",
         "value": 10753
       },
       {
-        "label": "MVP Fission",
+        "label": "MVP Fission®",
         "slug": "mvp-fission",
         "value": 6093
       },
       {
-        "label": "Axiom Fission",
+        "label": "Axiom Fission®",
         "slug": "axiom-fission",
         "value": 21792
       },
@@ -1061,6 +1076,78 @@
         "label": "November - 2022 Release",
         "slug": "november-2022-release",
         "value": 24259
+      },
+      {
+        "date": "2022-12-05T14:56:54+00:00",
+        "label": "December - 2022 Release",
+        "slug": "december-2022-release",
+        "value": 24524
+      },
+      {
+        "date": "2023-01-16T14:55:04+00:00",
+        "label": "January – 2023 Release",
+        "slug": "january-2023-release",
+        "value": 24888
+      },
+      {
+        "date": "2023-03-21T14:06:39+00:00",
+        "label": "March - 2023 Release",
+        "slug": "march-2023-release",
+        "value": 25680
+      },
+      {
+        "date": "2023-03-21T14:19:21+00:00",
+        "label": "March - 2023 Release Part 2",
+        "slug": "march-2023-release-part-2",
+        "value": 25681
+      },
+      {
+        "date": "2023-04-19T13:42:06+00:00",
+        "label": "April - 2023 Release",
+        "slug": "april-2023-release",
+        "value": 25814
+      },
+      {
+        "date": "2023-06-05T14:02:18+00:00",
+        "label": "June - 2023 Release",
+        "slug": "june-2023-release",
+        "value": 26082
+      },
+      {
+        "date": "2023-06-28T17:14:08+00:00",
+        "label": "Special - 2023 Release",
+        "slug": "special-2023-release",
+        "value": 26481
+      },
+      {
+        "date": "2023-08-14T13:41:28+00:00",
+        "label": "August - 2023 Release",
+        "slug": "august-2023-release",
+        "value": 26567
+      },
+      {
+        "date": "2023-08-30T13:50:46+00:00",
+        "label": "Simon Line Announcement",
+        "slug": "simon-line-announcement",
+        "value": 26788
+      },
+      {
+        "date": "2023-10-18T14:00:04+00:00",
+        "label": "October - 2023 Release",
+        "slug": "october-2023-release",
+        "value": 26962
+      },
+      {
+        "date": "2023-11-29T20:33:20+00:00",
+        "label": "November - 2023 Release",
+        "slug": "november-2023-release",
+        "value": 27114
+      },
+      {
+        "date": "2024-01-16T15:30:13+00:00",
+        "label": "January - 2024 Release",
+        "slug": "january-2024-release",
+        "value": 27251
       }
     ]
   },
@@ -1096,8 +1183,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Orange"
+            "Orange",
+            "Blue"
           ],
           "date_gmt": "2018-10-11T21:23:22",
           "height": 1200,
@@ -1153,8 +1240,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Red"
+            "Red",
+            "Blue"
           ],
           "date_gmt": "2018-10-11T21:24:34",
           "height": 1410,
@@ -2210,8 +2297,8 @@
       "MVP Cosmic Electron": [
         {
           "colors": [
-            "Blue",
-            "Brown"
+            "Brown",
+            "Blue"
           ],
           "date_gmt": "2020-07-23T21:43:33",
           "height": 1000,
@@ -2224,9 +2311,9 @@
         },
         {
           "colors": [
+            "Blue",
             "Red",
-            "Gray",
-            "Blue"
+            "Gray"
           ],
           "date_gmt": "2020-07-23T21:43:32",
           "height": 1000,
@@ -2239,8 +2326,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Gray"
+            "Gray",
+            "Purple"
           ],
           "date_gmt": "2020-07-23T21:43:31",
           "height": 1000,
@@ -2253,8 +2340,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Blue"
+            "Blue",
+            "Red"
           ],
           "date_gmt": "2020-07-23T21:43:29",
           "height": 1000,
@@ -2267,8 +2354,8 @@
         },
         {
           "colors": [
-            "Yellow",
-            "Red"
+            "Red",
+            "Yellow"
           ],
           "date_gmt": "2020-07-23T21:43:28",
           "height": 1000,
@@ -2362,8 +2449,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Green"
+            "Green",
+            "Pink"
           ],
           "date_gmt": "2019-11-04T16:42:00",
           "height": 1000,
@@ -3256,8 +3343,8 @@
         },
         {
           "colors": [
-            "Red orange",
-            "Red"
+            "Red",
+            "Red orange"
           ],
           "date_gmt": "2018-10-10T19:52:44",
           "height": 1000,
@@ -3860,8 +3947,8 @@
       "Axiom Neutron": [
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2018-10-11T21:51:13",
           "height": 1437,
@@ -4044,8 +4131,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Yellow"
+            "Yellow",
+            "Red"
           ],
           "date_gmt": "2021-03-25T20:27:06",
           "height": 1000,
@@ -4176,7 +4263,7 @@
           "width": 1000
         }
       ],
-      "Axiom Fission": [
+      "Axiom Fission®": [
         {
           "colors": [
             "Yellow"
@@ -4363,8 +4450,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Gray"
+            "Gray",
+            "Red"
           ],
           "date_gmt": "2021-03-25T21:16:37",
           "height": 1000,
@@ -4377,8 +4464,8 @@
         },
         {
           "colors": [
-            "Teal",
-            "Purple"
+            "Purple",
+            "Teal"
           ],
           "date_gmt": "2021-03-25T21:16:36",
           "height": 1000,
@@ -4405,8 +4492,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Orange"
+            "Orange",
+            "Purple"
           ],
           "date_gmt": "2021-03-25T17:45:22",
           "height": 1000,
@@ -4544,9 +4631,9 @@
         },
         {
           "colors": [
-            "Red",
             "Orange",
-            "Green"
+            "Green",
+            "Red"
           ],
           "date_gmt": "2021-01-21T05:07:32",
           "height": 1000,
@@ -5332,20 +5419,6 @@
       "Axiom Neutron": [
         {
           "colors": [
-            "Purple",
-            "Yellow"
-          ],
-          "date_gmt": "2020-07-24T17:06:35",
-          "height": 1000,
-          "id": 17719,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2020-07-27T13:57:32",
-          "slug": "neutrondefy_yellow1k",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2020/07/neutrondefy_yellow1K.jpg",
-          "width": 1000
-        },
-        {
-          "colors": [
             "Blue",
             "Green"
           ],
@@ -5356,6 +5429,20 @@
           "modified_gmt": "2020-07-27T13:57:11",
           "slug": "neutrondefy_blue1k",
           "source_url": "https://mvpdiscsports.com/wp-content/uploads/2020/07/neutrondefy_blue1K.jpg",
+          "width": 1000
+        },
+        {
+          "colors": [
+            "Purple",
+            "Yellow"
+          ],
+          "date_gmt": "2020-07-24T17:06:35",
+          "height": 1000,
+          "id": 17719,
+          "mime_type": "image/jpeg",
+          "modified_gmt": "2020-07-27T13:57:32",
+          "slug": "neutrondefy_yellow1k",
+          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2020/07/neutrondefy_yellow1K.jpg",
           "width": 1000
         },
         {
@@ -5693,8 +5780,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Green"
+            "Green",
+            "Blue"
           ],
           "date_gmt": "2019-08-02T16:36:01",
           "height": 1000,
@@ -5941,9 +6028,9 @@
         },
         {
           "colors": [
+            "Blue",
             "Purple",
-            "Green",
-            "Blue"
+            "Green"
           ],
           "date_gmt": "2021-01-22T06:22:32",
           "height": 1000,
@@ -5970,8 +6057,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Yellow"
+            "Yellow",
+            "Red"
           ],
           "date_gmt": "2021-01-22T06:22:23",
           "height": 1000,
@@ -6496,6 +6583,7 @@
         }
       ]
     },
+    "Echo": {},
     "Energy": {
       "MVP Neutron": [
         {
@@ -6984,8 +7072,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Black"
+            "Black",
+            "Pink"
           ],
           "date_gmt": "2021-11-09T17:25:16",
           "height": 1000,
@@ -7044,8 +7132,8 @@
       "Axiom Cosmic Electron": [
         {
           "colors": [
-            "Blue",
-            "Green"
+            "Green",
+            "Blue"
           ],
           "date_gmt": "2019-06-13T17:16:08",
           "height": 1000,
@@ -7126,8 +7214,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Blue"
+            "Blue",
+            "Purple"
           ],
           "date_gmt": "2019-06-13T17:15:48",
           "height": 1000,
@@ -7168,8 +7256,8 @@
         },
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2019-06-13T17:15:35",
           "height": 1000,
@@ -7402,8 +7490,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Purple"
+            "Purple",
+            "Green"
           ],
           "date_gmt": "2021-07-07T20:35:47",
           "height": 1000,
@@ -7430,8 +7518,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Pink"
+            "Pink",
+            "Blue"
           ],
           "date_gmt": "2021-07-07T20:35:44",
           "height": 1000,
@@ -7692,8 +7780,8 @@
         },
         {
           "colors": [
-            "Yellow",
-            "Light purple"
+            "Light purple",
+            "Yellow"
           ],
           "date_gmt": "2018-10-11T22:02:04",
           "height": 700,
@@ -7827,8 +7915,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Blue"
+            "Blue",
+            "Orange"
           ],
           "date_gmt": "2018-10-11T22:01:14",
           "height": 722,
@@ -7883,8 +7971,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Pink"
+            "Pink",
+            "Blue"
           ],
           "date_gmt": "2018-10-11T22:00:55",
           "height": 722,
@@ -8706,8 +8794,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Chartreuse"
+            "Chartreuse",
+            "Blue"
           ],
           "date_gmt": "2018-10-11T22:08:14",
           "height": 1000,
@@ -9529,7 +9617,7 @@
     },
     "Glitch": {},
     "Hex": {
-      "Axiom Fission": [
+      "Axiom Fission®": [
         {
           "colors": [
             "White",
@@ -9735,8 +9823,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Purple"
+            "Purple",
+            "Pink"
           ],
           "date_gmt": "2021-05-20T17:05:41",
           "height": 1000,
@@ -9992,48 +10080,6 @@
       ]
     },
     "Inertia": {
-      "MVP Eclipse 2.0": [
-        {
-          "colors": [
-            "White",
-            "Glow"
-          ],
-          "date_gmt": "2021-09-07T17:47:38",
-          "height": 1000,
-          "id": 20443,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2022-05-03T20:27:37",
-          "slug": "blueglow_inertia-noglowing-1k-2",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2021/09/BlueGlow_Inertia-NoGlowing-1K-1.jpg",
-          "width": 1000
-        },
-        {
-          "colors": [
-            "Glow"
-          ],
-          "date_gmt": "2021-09-07T17:47:36",
-          "height": 1000,
-          "id": 20442,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2022-05-03T20:26:54",
-          "slug": "blueglow_inertia-overlay-1k-2",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2021/09/BlueGlow_Inertia-Overlay-1K-1.jpg",
-          "width": 1000
-        },
-        {
-          "colors": [
-            "Blue"
-          ],
-          "date_gmt": "2021-09-07T17:47:35",
-          "height": 1000,
-          "id": 20441,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2022-05-03T20:28:17",
-          "slug": "blueglow_inertia-glowing-1k-2",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2021/09/BlueGlow_Inertia-Glowing-1K-1.jpg",
-          "width": 1000
-        }
-      ],
       "MVP Neutron": [
         {
           "colors": [
@@ -10422,9 +10468,9 @@
       "Axiom Cosmic Neutron": [
         {
           "colors": [
-            "Red",
             "Orange",
-            "Green"
+            "Green",
+            "Red"
           ],
           "date_gmt": "2021-01-20T19:08:27",
           "height": 1000,
@@ -10539,9 +10585,9 @@
         },
         {
           "colors": [
-            "Pink",
             "Purple",
-            "Silver"
+            "Silver",
+            "Pink"
           ],
           "date_gmt": "2021-01-20T18:57:31",
           "height": 1000,
@@ -10703,7 +10749,7 @@
           "width": 1000
         }
       ],
-      "Axiom Fission": [
+      "Axiom Fission®": [
         {
           "colors": [
             "Blue"
@@ -11017,8 +11063,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Blue"
+            "Blue",
+            "Red"
           ],
           "date_gmt": "2021-01-21T05:13:29",
           "height": 1000,
@@ -11142,8 +11188,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Orange"
+            "Orange",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T13:54:38",
           "height": 796,
@@ -11413,8 +11459,8 @@
         },
         {
           "colors": [
-            "White",
-            "Blue"
+            "Blue",
+            "White"
           ],
           "date_gmt": "2019-07-15T18:19:47",
           "height": 1000,
@@ -11512,8 +11558,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Pink"
+            "Pink",
+            "Purple"
           ],
           "date_gmt": "2018-10-12T14:12:53",
           "height": 1440,
@@ -13948,8 +13994,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Red"
+            "Red",
+            "Green"
           ],
           "date_gmt": "2018-10-17T15:47:21",
           "height": 1000,
@@ -13989,8 +14035,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Blue"
+            "Blue",
+            "Orange"
           ],
           "date_gmt": "2018-10-17T15:45:20",
           "height": 1000,
@@ -14087,8 +14133,8 @@
         },
         {
           "colors": [
-            "White",
-            "Yellow"
+            "Yellow",
+            "White"
           ],
           "date_gmt": "2018-10-12T14:23:14",
           "height": 630,
@@ -14267,8 +14313,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Blue"
+            "Blue",
+            "Green"
           ],
           "date_gmt": "2018-10-17T15:44:55",
           "height": 1000,
@@ -14820,8 +14866,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "White"
+            "White",
+            "Purple"
           ],
           "date_gmt": "2021-07-09T19:51:39",
           "height": 1000,
@@ -14865,7 +14911,7 @@
           "height": 1000,
           "id": 19677,
           "mime_type": "image/jpeg",
-          "modified_gmt": "2021-07-12T13:59:57",
+          "modified_gmt": "2023-06-23T15:04:13",
           "slug": "edited-electronnomadsoft-yellow1k",
           "source_url": "https://mvpdiscsports.com/wp-content/uploads/2021/07/Edited-ElectronNomadSoft-Yellow1K.jpg",
           "width": 1000
@@ -15295,7 +15341,7 @@
           "width": 800
         }
       ],
-      "MVP Fission": [
+      "MVP Fission®": [
         {
           "colors": [
             "White"
@@ -16067,8 +16113,8 @@
         },
         {
           "colors": [
-            "Gold",
-            "Aqua"
+            "Aqua",
+            "Gold"
           ],
           "date_gmt": "2021-12-10T16:20:28",
           "height": 1000,
@@ -16692,8 +16738,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "White"
+            "White",
+            "Pink"
           ],
           "date_gmt": "2021-08-17T01:41:43",
           "height": 1000,
@@ -17052,8 +17098,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Pink"
+            "Pink",
+            "Blue"
           ],
           "date_gmt": "2020-07-15T21:57:27",
           "height": 1000,
@@ -17107,7 +17153,7 @@
           "width": 1000
         }
       ],
-      "MVP Fission": [
+      "MVP Fission®": [
         {
           "colors": [
             "Orange"
@@ -17775,8 +17821,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Blurple"
+            "Blurple",
+            "Purple"
           ],
           "date_gmt": "2018-10-10T21:55:52",
           "height": 749,
@@ -18033,8 +18079,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Grey"
+            "Grey",
+            "Blue"
           ],
           "date_gmt": "2019-04-30T17:28:58",
           "height": 1000,
@@ -18857,12 +18903,13 @@
         }
       ]
     },
+    "Pixel": {},
     "Proxy": {
       "Axiom Cosmic Electron": [
         {
           "colors": [
-            "Pink",
-            "Blue"
+            "Blue",
+            "Pink"
           ],
           "date_gmt": "2020-05-12T18:37:05",
           "height": 1000,
@@ -18875,8 +18922,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Red"
+            "Red",
+            "Pink"
           ],
           "date_gmt": "2020-05-12T18:37:03",
           "height": 1000,
@@ -18889,9 +18936,9 @@
         },
         {
           "colors": [
+            "White",
             "Blue",
-            "Pink",
-            "White"
+            "Pink"
           ],
           "date_gmt": "2020-05-12T18:37:02",
           "height": 1000,
@@ -18919,9 +18966,9 @@
         },
         {
           "colors": [
-            "Gray",
             "Blue",
-            "Red"
+            "Red",
+            "Gray"
           ],
           "date_gmt": "2020-05-12T18:36:59",
           "height": 1000,
@@ -18977,8 +19024,8 @@
         },
         {
           "colors": [
-            "Teal",
-            "Pink"
+            "Pink",
+            "Teal"
           ],
           "date_gmt": "2020-05-12T18:36:52",
           "height": 1000,
@@ -19185,8 +19232,8 @@
         },
         {
           "colors": [
-            "Chartreuse",
-            "Blue"
+            "Blue",
+            "Chartreuse"
           ],
           "date_gmt": "2020-05-12T18:36:32",
           "height": 1000,
@@ -19213,8 +19260,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Blue"
+            "Blue",
+            "Purple"
           ],
           "date_gmt": "2020-05-12T18:36:30",
           "height": 1000,
@@ -19227,8 +19274,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Pink"
+            "Pink",
+            "Blue"
           ],
           "date_gmt": "2020-05-12T18:36:28",
           "height": 1000,
@@ -19460,8 +19507,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Pink"
+            "Pink",
+            "Red"
           ],
           "date_gmt": "2018-10-12T15:51:55",
           "height": 1800,
@@ -19502,8 +19549,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Green"
+            "Green",
+            "Pink"
           ],
           "date_gmt": "2018-10-12T15:51:20",
           "height": 743,
@@ -19638,8 +19685,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Blue"
+            "Blue",
+            "Orange"
           ],
           "date_gmt": "2018-10-12T15:51:40",
           "height": 743,
@@ -20064,70 +20111,7 @@
       ]
     },
     "Reactor": {
-      "MVP Eclipse 2.0": [
-        {
-          "colors": [],
-          "date_gmt": "2021-05-06T18:57:11",
-          "height": 1000,
-          "id": 19461,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2021-06-28T14:23:01",
-          "slug": "eclipsereactor_elaineking-signature-comboa-1k",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2021/05/EclipseReactor_ElaineKing-Signature-ComboA-1K.jpg",
-          "width": 1000
-        },
-        {
-          "colors": [],
-          "date_gmt": "2021-05-05T23:53:42",
-          "height": 1000,
-          "id": 19423,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2021-06-28T14:23:17",
-          "slug": "elaineking-sig-eclipsereactor-overlay-1k",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2021/05/ElaineKing-Sig-EclipseReactor-Overlay-1K.jpg",
-          "width": 1000
-        },
-        {
-          "colors": [
-            "Glow"
-          ],
-          "date_gmt": "2020-11-09T16:48:42",
-          "height": 3136,
-          "id": 18216,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2020-11-09T16:50:03",
-          "slug": "eclippse-2-0-reactor",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2020/11/Eclippse-2.0-Reactor.jpg",
-          "width": 3136
-        },
-        {
-          "colors": [
-            "Glow"
-          ],
-          "date_gmt": "2020-11-05T00:00:36",
-          "height": 1000,
-          "id": 18176,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2020-11-09T15:00:50",
-          "slug": "eclipse-reactorse_1k",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2020/11/Eclipse-ReactorSE_1K.jpg",
-          "width": 1000
-        },
-        {
-          "colors": [
-            "Glow"
-          ],
-          "date_gmt": "2020-11-02T22:15:12",
-          "height": 1000,
-          "id": 18147,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2020-11-09T15:01:04",
-          "slug": "eclipsereactor_underside1k",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2020/11/EclipseReactor_Underside1K.jpg",
-          "width": 1000
-        }
-      ],
-      "MVP Fission": [
+      "MVP Fission®": [
         {
           "colors": [
             "Yellow"
@@ -20253,7 +20237,7 @@
           "height": 1000,
           "id": 21324,
           "mime_type": "image/jpeg",
-          "modified_gmt": "2022-05-02T17:59:24",
+          "modified_gmt": "2023-06-23T15:03:27",
           "slug": "1k-fission-reactor-green",
           "source_url": "https://mvpdiscsports.com/wp-content/uploads/2022/03/1k-Fission-Reactor-Green.jpg",
           "width": 1000
@@ -20938,10 +20922,10 @@
         },
         {
           "colors": [
-            "Blue",
             "Green",
             "Black",
-            "Gray"
+            "Gray",
+            "Blue"
           ],
           "date_gmt": "2020-11-04T16:26:21",
           "height": 1000,
@@ -20954,10 +20938,10 @@
         },
         {
           "colors": [
+            "Blue",
             "Purple",
             "Green",
-            "Yellow",
-            "Blue"
+            "Yellow"
           ],
           "date_gmt": "2020-11-02T22:15:27",
           "height": 1000,
@@ -21144,47 +21128,6 @@
       ]
     },
     "Resistor": {
-      "MVP Eclipse 2.0": [
-        {
-          "colors": [
-            "Glow"
-          ],
-          "date_gmt": "2022-09-01T23:32:40",
-          "height": 550,
-          "id": 23189,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2022-09-06T15:56:42",
-          "slug": "marquee_sept_2022_eclipseresistorse",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2022/09/Marquee_Sept_2022_EclipseResistorSE.jpg",
-          "width": 963
-        },
-        {
-          "colors": [
-            "Glow"
-          ],
-          "date_gmt": "2022-08-30T17:08:42",
-          "height": 1000,
-          "id": 23137,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2022-09-06T15:57:10",
-          "slug": "1k-eclipse_resistor-halloween22-holo-glowwindow",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2022/08/1k-Eclipse_Resistor-Halloween22-holo-GlowWindow.jpg",
-          "width": 1000
-        },
-        {
-          "colors": [
-            "Glow"
-          ],
-          "date_gmt": "2022-08-30T17:08:40",
-          "height": 1000,
-          "id": 23136,
-          "mime_type": "image/jpeg",
-          "modified_gmt": "2022-09-06T15:57:37",
-          "slug": "1k-holo-eclipse_resistor-halloween22",
-          "source_url": "https://mvpdiscsports.com/wp-content/uploads/2022/08/1k-holo-Eclipse_Resistor-Halloween22.jpg",
-          "width": 1000
-        }
-      ],
       "MVP Neutron": [
         {
           "colors": [
@@ -21429,8 +21372,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Teal"
+            "Teal",
+            "Green"
           ],
           "date_gmt": "2019-10-04T15:00:39",
           "height": 1000,
@@ -21470,8 +21413,8 @@
         },
         {
           "colors": [
-            "Teal",
-            "Blue"
+            "Blue",
+            "Teal"
           ],
           "date_gmt": "2019-10-04T15:00:22",
           "height": 1000,
@@ -21949,8 +21892,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Red"
+            "Red",
+            "Orange"
           ],
           "date_gmt": "2021-01-21T00:37:46",
           "height": 1000,
@@ -21991,8 +21934,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Orange"
+            "Orange",
+            "Red"
           ],
           "date_gmt": "2021-01-21T00:37:41",
           "height": 1000,
@@ -23252,8 +23195,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Blue"
+            "Blue",
+            "Orange"
           ],
           "date_gmt": "2021-01-21T05:15:49",
           "height": 1000,
@@ -23280,8 +23223,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "White"
+            "White",
+            "Orange"
           ],
           "date_gmt": "2018-10-12T15:59:39",
           "height": 1000,
@@ -23308,8 +23251,8 @@
         },
         {
           "colors": [
-            "White",
-            "Blue"
+            "Blue",
+            "White"
           ],
           "date_gmt": "2018-10-12T15:59:29",
           "height": 1000,
@@ -23789,8 +23732,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Green"
+            "Green",
+            "Orange"
           ],
           "date_gmt": "2021-01-21T00:39:58",
           "height": 1000,
@@ -23817,8 +23760,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Red"
+            "Red",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T16:01:57",
           "height": 743,
@@ -23831,8 +23774,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Blue"
+            "Blue",
+            "Pink"
           ],
           "date_gmt": "2018-10-12T16:01:53",
           "height": 743,
@@ -23873,8 +23816,8 @@
         },
         {
           "colors": [
-            "Green",
-            "White"
+            "White",
+            "Green"
           ],
           "date_gmt": "2018-10-12T16:01:39",
           "height": 743,
@@ -24131,7 +24074,7 @@
       ]
     },
     "Tesla": {
-      "MVP Fission": [
+      "MVP Fission®": [
         {
           "colors": [
             "Yellow"
@@ -24909,8 +24852,8 @@
       "Axiom Neutron": [
         {
           "colors": [
-            "White",
-            "Green"
+            "Green",
+            "White"
           ],
           "date_gmt": "2018-10-12T16:04:49",
           "height": 1800,
@@ -25036,8 +24979,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Red"
+            "Red",
+            "Green"
           ],
           "date_gmt": "2018-10-12T16:03:50",
           "height": 796,
@@ -25223,8 +25166,8 @@
         },
         {
           "colors": [
-            "Red",
-            "White"
+            "White",
+            "Red"
           ],
           "date_gmt": "2018-10-12T16:13:52",
           "height": 697,
@@ -25281,8 +25224,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Pink"
+            "Pink",
+            "Green"
           ],
           "date_gmt": "2018-10-12T16:13:32",
           "height": 749,
@@ -25309,6 +25252,7 @@
         }
       ]
     },
+    "Time-Lapse": {},
     "Trace": {
       "Streamline Cosmic Neutron": [
         {
@@ -26173,8 +26117,8 @@
         },
         {
           "colors": [
-            "White",
-            "Orange"
+            "Orange",
+            "White"
           ],
           "date_gmt": "2018-10-12T16:15:45",
           "height": 1000,
@@ -26449,8 +26393,8 @@
         },
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2020-07-23T20:58:33",
           "height": 1000,
@@ -26868,9 +26812,9 @@
         },
         {
           "colors": [
+            "Black",
             "Pink",
-            "Red",
-            "Black"
+            "Red"
           ],
           "date_gmt": "2020-07-23T21:41:38",
           "height": 1000,
@@ -26897,8 +26841,8 @@
         },
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2018-10-12T16:18:32",
           "height": 667,
@@ -26925,8 +26869,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Red"
+            "Red",
+            "Green"
           ],
           "date_gmt": "2018-10-12T16:18:24",
           "height": 667,
@@ -26953,8 +26897,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Blue"
+            "Blue",
+            "Red"
           ],
           "date_gmt": "2018-10-12T16:18:16",
           "height": 667,
@@ -27023,8 +26967,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "White"
+            "White",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T16:17:52",
           "height": 667,
@@ -27119,8 +27063,8 @@
         },
         {
           "colors": [
-            "Teal",
-            "Yellow"
+            "Yellow",
+            "Teal"
           ],
           "date_gmt": "2018-10-12T16:17:08",
           "height": 1000,
@@ -27149,8 +27093,8 @@
       "Axiom Proton": [
         {
           "colors": [
-            "Blue",
-            "Orange"
+            "Orange",
+            "Blue"
           ],
           "date_gmt": "2020-07-23T21:41:50",
           "height": 1000,
@@ -27397,7 +27341,7 @@
           "width": 800
         }
       ],
-      "MVP Fission": [
+      "MVP Fission®": [
         {
           "colors": [
             "Yellow"
@@ -27976,6 +27920,7 @@
         }
       ]
     },
+    "Watt": {},
     "Wave": {
       "MVP Cosmic Neutron": [
         {
@@ -28059,8 +28004,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Blue"
+            "Blue",
+            "Pink"
           ],
           "date_gmt": "2020-07-15T21:53:08",
           "height": 1000,
@@ -28128,7 +28073,7 @@
           "width": 1000
         }
       ],
-      "MVP Fission": [
+      "MVP Fission®": [
         {
           "colors": [
             "Pink",
@@ -29033,8 +28978,8 @@
       "Axiom Proton": [
         {
           "colors": [
-            "Pink",
-            "Orange"
+            "Orange",
+            "Pink"
           ],
           "date_gmt": "2019-01-08T18:07:00",
           "height": 1000,
@@ -29130,8 +29075,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Clear"
+            "Clear",
+            "Pink"
           ],
           "date_gmt": "2018-10-12T16:21:11",
           "height": 1000,
@@ -29158,8 +29103,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Red"
+            "Red",
+            "Green"
           ],
           "date_gmt": "2018-10-12T16:20:59",
           "height": 1000,
