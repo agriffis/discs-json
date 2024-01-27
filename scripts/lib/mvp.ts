@@ -1,4 +1,4 @@
-import {Disc} from './types.ts'
+import {Disc} from './types'
 
 //----------------------------------------------------------------------
 // Scraped types (sparse)
@@ -210,14 +210,11 @@ const flightRatingOverridesTable: {
     [plastic: string]: Partial<MvpApiDisc['flightRatings']>
   }
 } = {
-  Envy: {
-    _: {turn: 0},
-    Electron: {turn: -1},
-  },
-  Spin: {
-    _: {turn: -2},
-    Electron: {turn: -2.5},
-  },
+  Envy: {Electron: {turn: -1}},
+  Proxy: {Electron: {glide: 3.5}},
+  Spin: {Electron: {turn: -2.5}},
+  Terra: {Electron: {turn: -0.5, fade: 2.5}},
+  Volt: {Electron: {turn: -2, fade: 1.5}, Fission: {turn: -1}},
 }
 
 export const flightRatingOverrides = (

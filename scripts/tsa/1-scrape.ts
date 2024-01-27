@@ -1,8 +1,8 @@
 /**
  * Scrape the TSA HTML for discs.
  */
-import * as assets from '../lib/assets.ts'
-import * as tsa from '../lib/tsa.ts'
+import * as assets from '../lib/assets'
+import * as tsa from '../lib/tsa'
 
 async function main() {
   let html = await fetch('https://thoughtspaceathletics.com/pages/molds').then(

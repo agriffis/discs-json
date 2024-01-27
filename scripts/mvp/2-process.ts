@@ -1,6 +1,6 @@
 import * as R from 'rambdax'
-import {assert, get, magicSort, myJsons} from '../lib/index.ts'
-import * as assets from '../lib/assets.ts'
+import {assert, get, magicSort, myJsons} from '../lib'
+import * as assets from '../lib/assets'
 import {
   derivePlasticVariant,
   flightRatingOverrides,
@@ -16,7 +16,7 @@ import {
   processed,
   scraped,
   splitPlastic,
-} from '../lib/mvp.ts'
+} from '../lib/mvp'
 
 async function main() {
   const mvpBrands = (await assets.readJson(scraped.brands)) as MvpApiBrand[]

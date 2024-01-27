@@ -2,8 +2,8 @@
  * Scrape the Kastplast HTML for discs.
  */
 import * as cheerio from 'cheerio'
-import * as assets from '../lib/assets.ts'
-import * as kastaplast from '../lib/kastaplast.ts'
+import * as assets from '../lib/assets'
+import * as kastaplast from '../lib/kastaplast'
 
 const parseDiscPages = (html: string) => {
   const $ = cheerio.load(html, null, false)

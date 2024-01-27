@@ -1,4 +1,4 @@
-import {Disc} from './types.ts'
+import {Disc} from './types'
 
 //----------------------------------------------------------------------
 // Processed types

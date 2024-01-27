@@ -2,8 +2,8 @@
  * Scrape the mint HTML for discs.
  */
 import * as cheerio from 'cheerio'
-import * as assets from '../lib/assets.ts'
-import * as mint from '../lib/mint.ts'
+import * as assets from '../lib/assets'
+import * as mint from '../lib/mint'
 
 const parseDiscPages = (html: string): {[title: string]: string} => {
   const $ = cheerio.load(html, null, false)

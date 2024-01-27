@@ -1,7 +1,6 @@
 {
   "extends": "@tsconfig/node21/tsconfig.json",
   "compilerOptions": {
-    "allowImportingTsExtensions": true,
     "noEmit": true,
     "resolveJsonModule": true,
     "strict": false,

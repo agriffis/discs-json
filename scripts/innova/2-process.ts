@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio'
 import * as R from 'rambdax'
-import {assert, get, myJsons} from '../lib/index.ts'
-import * as assets from '../lib/assets.ts'
+import {assert, get, myJsons} from '../lib'
+import * as assets from '../lib/assets'
 import {
   InnovaDisc,
   InnovaMold,
@@ -11,7 +11,7 @@ import {
   processed,
   pseudoMolds,
   scraped,
-} from '../lib/innova.ts'
+} from '../lib/innova'
 
 type PlasticsTable = {[K in PlasticId]: InnovaPlastic}
 

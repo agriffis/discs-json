@@ -1,7 +1,6 @@
 {
   "name": "@scampersand/discs-json",
   "version": "1.0.0",
-  "type": "module",
   "dependencies": {
     "@fast-csv/parse": "^4.3.6",
     "@tsconfig/node21": "^21.0.1",
@@ -11,7 +10,7 @@
     "prettier": "^3.2.4",
     "rambdax": "^10.1.0",
     "title-case": "^4.3.1",
-    "tsx": "^4.7.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
   "prettier": {

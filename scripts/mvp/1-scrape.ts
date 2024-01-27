@@ -2,8 +2,8 @@
  * Scrape the MVP API for discs and plastics.
  */
 import * as R from 'rambdax'
-import {magicSort} from '../lib/index.ts'
-import * as assets from '../lib/assets.ts'
+import {magicSort} from '../lib'
+import * as assets from '../lib/assets'
 import {
   MvpApiBrand,
   MvpApiConfig,
@@ -11,7 +11,7 @@ import {
   MvpApiImage,
   MvpApiImages,
   scraped,
-} from '../lib/mvp.ts'
+} from '../lib/mvp'
 
 const dbg = <T>(s: T) => {
   console.log(s)
@@ -53,10 +53,14 @@ async function fetchImages(): Promise<MvpApiImages> {
   const html = await fetch(
     dbg('https://mvpdiscsports.com/download/products/'),
   ).then(r => r.text())
-  const configJson = html.replace(
+  let configJson = html.replace(
     /^.*?\nvar themeExports = (\{[^\n]*\}).*$/s,
     (_, j) => j,
   )
+  // Parse and stringify to replace unicode escapes with UTF-8.
+  configJson = JSON.stringify(JSON.parse(configJson))
+  // Beware the Fission registered trademark.
+  configJson = configJson.replaceAll('®', '')
   const config: MvpApiConfig = JSON.parse(configJson)
 
   const items: MvpApiImages['items'] = {}

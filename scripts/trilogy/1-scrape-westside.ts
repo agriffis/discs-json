@@ -2,8 +2,8 @@
  * Scrape the Westside HTML for discs.
  */
 import * as cheerio from 'cheerio'
-import * as assets from '../lib/assets.ts'
-import * as trilogy from '../lib/trilogy.ts'
+import * as assets from '../lib/assets'
+import * as trilogy from '../lib/trilogy'
 
 async function main() {
   const htmls = await Promise.all(

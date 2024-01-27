@@ -3,9 +3,9 @@
  */
 import * as cheerio from 'cheerio'
 import * as R from 'rambdax'
-import * as assets from '../lib/assets.ts'
-import {processed, scraped} from '../lib/discraft.ts'
-import {Disc} from '../lib/types.ts'
+import * as assets from '../lib/assets'
+import {processed, scraped} from '../lib/discraft'
+import {Disc} from '../lib/types'
 
 const splitNums = (s: string) => {
   const nums = [...s.matchAll(/[-+]?\b(?:\d+[.]\d+|\d+|[.]\d+)\b/g)].map(m =>

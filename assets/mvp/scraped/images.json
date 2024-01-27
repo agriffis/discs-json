@@ -29,6 +29,36 @@
     ],
     "colors": [
       {
+        "label": "Red",
+        "slug": "red",
+        "value": 58
+      },
+      {
+        "label": "Sparkle Green",
+        "slug": "sparkle-green",
+        "value": 155
+      },
+      {
+        "label": "turquoise",
+        "slug": "turquoise",
+        "value": 377
+      },
+      {
+        "label": "Grey",
+        "slug": "grey",
+        "value": 103
+      },
+      {
+        "label": "Light Orange",
+        "slug": "light-orange",
+        "value": 191
+      },
+      {
+        "label": "Gray",
+        "slug": "gray",
+        "value": 417
+      },
+      {
         "label": "Slate",
         "slug": "slate",
         "value": 104
@@ -232,36 +262,6 @@
         "label": "dark-grey",
         "slug": "dark-grey",
         "value": 344
-      },
-      {
-        "label": "Red",
-        "slug": "red",
-        "value": 58
-      },
-      {
-        "label": "Sparkle Green",
-        "slug": "sparkle-green",
-        "value": 155
-      },
-      {
-        "label": "turquoise",
-        "slug": "turquoise",
-        "value": 377
-      },
-      {
-        "label": "Grey",
-        "slug": "grey",
-        "value": 103
-      },
-      {
-        "label": "Light Orange",
-        "slug": "light-orange",
-        "value": 191
-      },
-      {
-        "label": "Gray",
-        "slug": "gray",
-        "value": 417
       }
     ],
     "discCategory": "43",
@@ -759,12 +759,12 @@
         "value": 10753
       },
       {
-        "label": "MVP Fission®",
+        "label": "MVP Fission",
         "slug": "mvp-fission",
         "value": 6093
       },
       {
-        "label": "Axiom Fission®",
+        "label": "Axiom Fission",
         "slug": "axiom-fission",
         "value": 21792
       },
@@ -1031,7 +1031,7 @@
       },
       {
         "date": "2022-03-21T14:54:06+00:00",
-        "label": "Upgrades - The Enhanced Black Hole® Portal and Gravity are here!",
+        "label": "Upgrades - The Enhanced Black Hole Portal and Gravity are here!",
         "slug": "basket-release",
         "value": 21230
       },
@@ -1183,8 +1183,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Blue"
+            "Blue",
+            "Orange"
           ],
           "date_gmt": "2018-10-11T21:23:22",
           "height": 1200,
@@ -1240,8 +1240,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Blue"
+            "Blue",
+            "Red"
           ],
           "date_gmt": "2018-10-11T21:24:34",
           "height": 1410,
@@ -1639,8 +1639,8 @@
         },
         {
           "colors": [
-            "Hot Pink",
-            "Black"
+            "Black",
+            "Hot Pink"
           ],
           "date_gmt": "2018-10-11T16:47:51",
           "height": 1000,
@@ -1706,8 +1706,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Peach"
+            "Peach",
+            "Pink"
           ],
           "date_gmt": "2018-10-10T19:28:56",
           "height": 749,
@@ -2297,8 +2297,8 @@
       "MVP Cosmic Electron": [
         {
           "colors": [
-            "Brown",
-            "Blue"
+            "Blue",
+            "Brown"
           ],
           "date_gmt": "2020-07-23T21:43:33",
           "height": 1000,
@@ -2326,8 +2326,8 @@
         },
         {
           "colors": [
-            "Gray",
-            "Purple"
+            "Purple",
+            "Gray"
           ],
           "date_gmt": "2020-07-23T21:43:31",
           "height": 1000,
@@ -2354,8 +2354,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Yellow"
+            "Yellow",
+            "Red"
           ],
           "date_gmt": "2020-07-23T21:43:28",
           "height": 1000,
@@ -2409,8 +2409,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Pink"
+            "Pink",
+            "Blue"
           ],
           "date_gmt": "2019-11-04T16:42:09",
           "height": 1000,
@@ -2449,8 +2449,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Pink"
+            "Pink",
+            "Green"
           ],
           "date_gmt": "2019-11-04T16:42:00",
           "height": 1000,
@@ -3947,8 +3947,8 @@
       "Axiom Neutron": [
         {
           "colors": [
-            "Pink",
-            "White"
+            "White",
+            "Pink"
           ],
           "date_gmt": "2018-10-11T21:51:13",
           "height": 1437,
@@ -4263,7 +4263,7 @@
           "width": 1000
         }
       ],
-      "Axiom Fission®": [
+      "Axiom Fission": [
         {
           "colors": [
             "Yellow"
@@ -4450,8 +4450,8 @@
         },
         {
           "colors": [
-            "Gray",
-            "Red"
+            "Red",
+            "Gray"
           ],
           "date_gmt": "2021-03-25T21:16:37",
           "height": 1000,
@@ -4464,8 +4464,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Teal"
+            "Teal",
+            "Purple"
           ],
           "date_gmt": "2021-03-25T21:16:36",
           "height": 1000,
@@ -4492,8 +4492,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Purple"
+            "Purple",
+            "Orange"
           ],
           "date_gmt": "2021-03-25T17:45:22",
           "height": 1000,
@@ -4715,8 +4715,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Green"
+            "Green",
+            "Orange"
           ],
           "date_gmt": "2018-10-11T21:54:30",
           "height": 791,
@@ -5503,8 +5503,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Grey"
+            "Grey",
+            "Red"
           ],
           "date_gmt": "2018-10-11T21:42:03",
           "height": 696,
@@ -5531,8 +5531,8 @@
         },
         {
           "colors": [
-            "White",
-            "Orange"
+            "Orange",
+            "White"
           ],
           "date_gmt": "2018-10-11T21:41:55",
           "height": 697,
@@ -6977,8 +6977,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Lavender"
+            "Lavender",
+            "Pink"
           ],
           "date_gmt": "2019-04-04T14:57:50",
           "height": 1000,
@@ -7132,8 +7132,8 @@
       "Axiom Cosmic Electron": [
         {
           "colors": [
-            "Green",
-            "Blue"
+            "Blue",
+            "Green"
           ],
           "date_gmt": "2019-06-13T17:16:08",
           "height": 1000,
@@ -7200,8 +7200,8 @@
         },
         {
           "colors": [
-            "White",
-            "Green"
+            "Green",
+            "White"
           ],
           "date_gmt": "2019-06-13T17:15:51",
           "height": 1000,
@@ -7256,8 +7256,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "White"
+            "White",
+            "Pink"
           ],
           "date_gmt": "2019-06-13T17:15:35",
           "height": 1000,
@@ -7421,8 +7421,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Glow"
+            "Glow",
+            "Green"
           ],
           "date_gmt": "2018-10-11T22:02:27",
           "height": 1000,
@@ -7449,8 +7449,8 @@
         },
         {
           "colors": [
-            "White",
-            "Blue"
+            "Blue",
+            "White"
           ],
           "date_gmt": "2018-10-11T22:02:16",
           "height": 1000,
@@ -7504,8 +7504,8 @@
         },
         {
           "colors": [
-            "White",
-            "Orange"
+            "Orange",
+            "White"
           ],
           "date_gmt": "2021-07-07T20:35:45",
           "height": 1000,
@@ -7518,8 +7518,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Blue"
+            "Blue",
+            "Pink"
           ],
           "date_gmt": "2021-07-07T20:35:44",
           "height": 1000,
@@ -7780,8 +7780,8 @@
         },
         {
           "colors": [
-            "Light purple",
-            "Yellow"
+            "Yellow",
+            "Light purple"
           ],
           "date_gmt": "2018-10-11T22:02:04",
           "height": 700,
@@ -7821,8 +7821,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Orange"
+            "Orange",
+            "Blue"
           ],
           "date_gmt": "2018-10-11T22:01:48",
           "height": 700,
@@ -7943,8 +7943,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Yellow"
+            "Yellow",
+            "Red"
           ],
           "date_gmt": "2018-10-11T22:01:03",
           "height": 722,
@@ -7971,8 +7971,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Blue"
+            "Blue",
+            "Pink"
           ],
           "date_gmt": "2018-10-11T22:00:55",
           "height": 722,
@@ -8259,8 +8259,8 @@
         },
         {
           "colors": [
-            "White",
-            "Yellow"
+            "Yellow",
+            "White"
           ],
           "date_gmt": "2018-10-11T22:14:05",
           "height": 3414,
@@ -8287,8 +8287,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Purple"
+            "Purple",
+            "Pink"
           ],
           "date_gmt": "2018-10-11T22:13:37",
           "height": 3420,
@@ -8725,8 +8725,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Chartreuse"
+            "Chartreuse",
+            "Blue"
           ],
           "date_gmt": "2021-01-21T05:17:47",
           "height": 1000,
@@ -8794,8 +8794,8 @@
         },
         {
           "colors": [
-            "Chartreuse",
-            "Blue"
+            "Blue",
+            "Chartreuse"
           ],
           "date_gmt": "2018-10-11T22:08:14",
           "height": 1000,
@@ -9385,8 +9385,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Sparkle Blue"
+            "Sparkle Blue",
+            "Blue"
           ],
           "date_gmt": "2018-10-11T22:06:47",
           "height": 756,
@@ -9447,9 +9447,9 @@
         },
         {
           "colors": [
-            "Blue",
             "Green",
-            "Yellow"
+            "Yellow",
+            "Blue"
           ],
           "date_gmt": "2021-01-21T00:32:56",
           "height": 1000,
@@ -9617,7 +9617,7 @@
     },
     "Glitch": {},
     "Hex": {
-      "Axiom Fission®": [
+      "Axiom Fission": [
         {
           "colors": [
             "White",
@@ -9809,8 +9809,8 @@
         },
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2021-05-20T17:05:42",
           "height": 1000,
@@ -9823,8 +9823,8 @@
         },
         {
           "colors": [
-            "Purple",
-            "Pink"
+            "Pink",
+            "Purple"
           ],
           "date_gmt": "2021-05-20T17:05:41",
           "height": 1000,
@@ -9837,8 +9837,8 @@
         },
         {
           "colors": [
-            "Chartreuse",
-            "Red"
+            "Red",
+            "Chartreuse"
           ],
           "date_gmt": "2021-05-20T17:05:40",
           "height": 1000,
@@ -10585,9 +10585,9 @@
         },
         {
           "colors": [
+            "Pink",
             "Purple",
-            "Silver",
-            "Pink"
+            "Silver"
           ],
           "date_gmt": "2021-01-20T18:57:31",
           "height": 1000,
@@ -10615,9 +10615,9 @@
         },
         {
           "colors": [
-            "Orange",
             "Green",
-            "Yellow"
+            "Yellow",
+            "Orange"
           ],
           "date_gmt": "2021-01-20T18:57:29",
           "height": 1000,
@@ -10749,7 +10749,7 @@
           "width": 1000
         }
       ],
-      "Axiom Fission®": [
+      "Axiom Fission": [
         {
           "colors": [
             "Blue"
@@ -11020,8 +11020,8 @@
       "Axiom Plasma": [
         {
           "colors": [
-            "Orange",
-            "Yellow"
+            "Yellow",
+            "Orange"
           ],
           "date_gmt": "2021-01-21T05:13:34",
           "height": 1000,
@@ -11048,9 +11048,9 @@
         },
         {
           "colors": [
+            "Green",
             "Blue",
-            "Purple",
-            "Green"
+            "Purple"
           ],
           "date_gmt": "2021-01-21T05:13:31",
           "height": 1000,
@@ -11077,8 +11077,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Green"
+            "Green",
+            "Pink"
           ],
           "date_gmt": "2021-01-21T05:13:28",
           "height": 1000,
@@ -11188,8 +11188,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Blue"
+            "Blue",
+            "Orange"
           ],
           "date_gmt": "2018-10-12T13:54:38",
           "height": 796,
@@ -11216,8 +11216,8 @@
         },
         {
           "colors": [
-            "Teal",
-            "Pink"
+            "Pink",
+            "Teal"
           ],
           "date_gmt": "2018-10-12T13:53:41",
           "height": 796,
@@ -11329,8 +11329,8 @@
         },
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2019-07-15T18:50:50",
           "height": 1000,
@@ -11459,8 +11459,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "White"
+            "White",
+            "Blue"
           ],
           "date_gmt": "2019-07-15T18:19:47",
           "height": 1000,
@@ -13994,8 +13994,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Green"
+            "Green",
+            "Red"
           ],
           "date_gmt": "2018-10-17T15:47:21",
           "height": 1000,
@@ -14091,8 +14091,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Teal"
+            "Teal",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T14:23:27",
           "height": 651,
@@ -14379,8 +14379,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Purple"
+            "Purple",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T14:23:57",
           "height": 694,
@@ -14880,8 +14880,8 @@
         },
         {
           "colors": [
-            "White",
-            "Green"
+            "Green",
+            "White"
           ],
           "date_gmt": "2021-07-09T19:51:37",
           "height": 1000,
@@ -15341,7 +15341,7 @@
           "width": 800
         }
       ],
-      "MVP Fission®": [
+      "MVP Fission": [
         {
           "colors": [
             "White"
@@ -15802,8 +15802,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Sparkle Pink"
+            "Sparkle Pink",
+            "Pink"
           ],
           "date_gmt": "2018-10-10T21:21:53",
           "height": 747,
@@ -16738,8 +16738,8 @@
         },
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2021-08-17T01:41:43",
           "height": 1000,
@@ -17042,8 +17042,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Lime"
+            "Lime",
+            "Green"
           ],
           "date_gmt": "2020-07-15T22:02:09",
           "height": 1000,
@@ -17070,8 +17070,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Yellow"
+            "Yellow",
+            "Orange"
           ],
           "date_gmt": "2020-07-15T22:02:06",
           "height": 1000,
@@ -17098,8 +17098,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Blue"
+            "Blue",
+            "Pink"
           ],
           "date_gmt": "2020-07-15T21:57:27",
           "height": 1000,
@@ -17126,8 +17126,8 @@
         },
         {
           "colors": [
-            "Lime",
-            "Blue"
+            "Blue",
+            "Lime"
           ],
           "date_gmt": "2020-07-15T21:57:24",
           "height": 1000,
@@ -17153,7 +17153,7 @@
           "width": 1000
         }
       ],
-      "MVP Fission®": [
+      "MVP Fission": [
         {
           "colors": [
             "Orange"
@@ -17821,8 +17821,8 @@
         },
         {
           "colors": [
-            "Blurple",
-            "Purple"
+            "Purple",
+            "Blurple"
           ],
           "date_gmt": "2018-10-10T21:55:52",
           "height": 749,
@@ -18079,8 +18079,8 @@
         },
         {
           "colors": [
-            "Grey",
-            "Blue"
+            "Blue",
+            "Grey"
           ],
           "date_gmt": "2019-04-30T17:28:58",
           "height": 1000,
@@ -18922,8 +18922,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Pink"
+            "Pink",
+            "Red"
           ],
           "date_gmt": "2020-05-12T18:37:03",
           "height": 1000,
@@ -19162,8 +19162,8 @@
         },
         {
           "colors": [
-            "White",
-            "Pink"
+            "Pink",
+            "White"
           ],
           "date_gmt": "2020-05-12T18:36:45",
           "height": 1000,
@@ -19274,8 +19274,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Blue"
+            "Blue",
+            "Pink"
           ],
           "date_gmt": "2020-05-12T18:36:28",
           "height": 1000,
@@ -19465,8 +19465,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Green"
+            "Green",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T15:52:25",
           "height": 1800,
@@ -19493,8 +19493,8 @@
         },
         {
           "colors": [
-            "White",
-            "Red"
+            "Red",
+            "White"
           ],
           "date_gmt": "2018-10-12T15:52:04",
           "height": 1800,
@@ -19549,8 +19549,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Pink"
+            "Pink",
+            "Green"
           ],
           "date_gmt": "2018-10-12T15:51:20",
           "height": 743,
@@ -20082,8 +20082,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "Yellow"
+            "Yellow",
+            "Pink"
           ],
           "date_gmt": "2019-06-13T14:21:12",
           "height": 1000,
@@ -20111,7 +20111,7 @@
       ]
     },
     "Reactor": {
-      "MVP Fission®": [
+      "MVP Fission": [
         {
           "colors": [
             "Yellow"
@@ -20922,10 +20922,10 @@
         },
         {
           "colors": [
-            "Green",
-            "Black",
             "Gray",
-            "Blue"
+            "Blue",
+            "Green",
+            "Black"
           ],
           "date_gmt": "2020-11-04T16:26:21",
           "height": 1000,
@@ -21372,8 +21372,8 @@
         },
         {
           "colors": [
-            "Teal",
-            "Green"
+            "Green",
+            "Teal"
           ],
           "date_gmt": "2019-10-04T15:00:39",
           "height": 1000,
@@ -21892,8 +21892,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Orange"
+            "Orange",
+            "Red"
           ],
           "date_gmt": "2021-01-21T00:37:46",
           "height": 1000,
@@ -23251,8 +23251,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "White"
+            "White",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T15:59:29",
           "height": 1000,
@@ -23292,8 +23292,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Teal"
+            "Teal",
+            "Green"
           ],
           "date_gmt": "2018-10-12T15:59:13",
           "height": 1000,
@@ -23634,8 +23634,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Chartreuse"
+            "Chartreuse",
+            "Blue"
           ],
           "date_gmt": "2021-06-24T17:04:30",
           "height": 1000,
@@ -23732,8 +23732,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Orange"
+            "Orange",
+            "Green"
           ],
           "date_gmt": "2021-01-21T00:39:58",
           "height": 1000,
@@ -23760,8 +23760,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Blue"
+            "Blue",
+            "Red"
           ],
           "date_gmt": "2018-10-12T16:01:57",
           "height": 743,
@@ -24074,7 +24074,7 @@
       ]
     },
     "Tesla": {
-      "MVP Fission®": [
+      "MVP Fission": [
         {
           "colors": [
             "Yellow"
@@ -24852,8 +24852,8 @@
       "Axiom Neutron": [
         {
           "colors": [
-            "Green",
-            "White"
+            "White",
+            "Green"
           ],
           "date_gmt": "2018-10-12T16:04:49",
           "height": 1800,
@@ -25166,8 +25166,8 @@
         },
         {
           "colors": [
-            "White",
-            "Red"
+            "Red",
+            "White"
           ],
           "date_gmt": "2018-10-12T16:13:52",
           "height": 697,
@@ -26047,8 +26047,8 @@
         },
         {
           "colors": [
-            "White",
-            "Chartreuse"
+            "Chartreuse",
+            "White"
           ],
           "date_gmt": "2020-07-23T20:58:38",
           "height": 1000,
@@ -26075,8 +26075,8 @@
         },
         {
           "colors": [
-            "Yellow",
-            "Red"
+            "Red",
+            "Yellow"
           ],
           "date_gmt": "2018-10-12T16:16:15",
           "height": 1000,
@@ -26117,8 +26117,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "White"
+            "White",
+            "Orange"
           ],
           "date_gmt": "2018-10-12T16:15:45",
           "height": 1000,
@@ -26270,8 +26270,8 @@
         },
         {
           "colors": [
-            "Green",
-            "Red"
+            "Red",
+            "Green"
           ],
           "date_gmt": "2018-10-12T16:14:45",
           "height": 796,
@@ -26393,8 +26393,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "White"
+            "White",
+            "Pink"
           ],
           "date_gmt": "2020-07-23T20:58:33",
           "height": 1000,
@@ -26407,8 +26407,8 @@
         },
         {
           "colors": [
-            "Orange",
-            "Teal"
+            "Teal",
+            "Orange"
           ],
           "date_gmt": "2020-07-23T20:58:32",
           "height": 1000,
@@ -26435,8 +26435,8 @@
         },
         {
           "colors": [
-            "Yellow",
-            "Red"
+            "Red",
+            "Yellow"
           ],
           "date_gmt": "2018-10-12T16:16:36",
           "height": 752,
@@ -26812,9 +26812,9 @@
         },
         {
           "colors": [
-            "Black",
             "Pink",
-            "Red"
+            "Red",
+            "Black"
           ],
           "date_gmt": "2020-07-23T21:41:38",
           "height": 1000,
@@ -26841,8 +26841,8 @@
         },
         {
           "colors": [
-            "Pink",
-            "White"
+            "White",
+            "Pink"
           ],
           "date_gmt": "2018-10-12T16:18:32",
           "height": 667,
@@ -26897,8 +26897,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Red"
+            "Red",
+            "Blue"
           ],
           "date_gmt": "2018-10-12T16:18:16",
           "height": 667,
@@ -27035,8 +27035,8 @@
         },
         {
           "colors": [
-            "White",
-            "Mint"
+            "Mint",
+            "White"
           ],
           "date_gmt": "2018-10-12T16:17:21",
           "height": 1000,
@@ -27093,8 +27093,8 @@
       "Axiom Proton": [
         {
           "colors": [
-            "Orange",
-            "Blue"
+            "Blue",
+            "Orange"
           ],
           "date_gmt": "2020-07-23T21:41:50",
           "height": 1000,
@@ -27341,7 +27341,7 @@
           "width": 800
         }
       ],
-      "MVP Fission®": [
+      "MVP Fission": [
         {
           "colors": [
             "Yellow"
@@ -28004,8 +28004,8 @@
         },
         {
           "colors": [
-            "Blue",
-            "Pink"
+            "Pink",
+            "Blue"
           ],
           "date_gmt": "2020-07-15T21:53:08",
           "height": 1000,
@@ -28073,7 +28073,7 @@
           "width": 1000
         }
       ],
-      "MVP Fission®": [
+      "MVP Fission": [
         {
           "colors": [
             "Pink",
@@ -28978,8 +28978,8 @@
       "Axiom Proton": [
         {
           "colors": [
-            "Orange",
-            "Pink"
+            "Pink",
+            "Orange"
           ],
           "date_gmt": "2019-01-08T18:07:00",
           "height": 1000,
@@ -29006,8 +29006,8 @@
         },
         {
           "colors": [
-            "White",
-            "Sparkle Blue"
+            "Sparkle Blue",
+            "White"
           ],
           "date_gmt": "2018-10-12T16:21:39",
           "height": 1000,
@@ -29075,8 +29075,8 @@
         },
         {
           "colors": [
-            "Clear",
-            "Pink"
+            "Pink",
+            "Clear"
           ],
           "date_gmt": "2018-10-12T16:21:11",
           "height": 1000,
@@ -29103,8 +29103,8 @@
         },
         {
           "colors": [
-            "Red",
-            "Green"
+            "Green",
+            "Red"
           ],
           "date_gmt": "2018-10-12T16:20:59",
           "height": 1000,

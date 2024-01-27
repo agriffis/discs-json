@@ -2,10 +2,12 @@ import fs from 'fs/promises'
 import path from 'path'
 import prettier from 'prettier'
 import {fileURLToPath} from 'url'
-import {stableJson} from './index.ts'
+import {stableJson} from '.'
 
+/*
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
+*/
 
 const assetsDir = path.resolve(__dirname, '../../assets')
 

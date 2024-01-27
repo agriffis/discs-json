@@ -2,9 +2,9 @@
  * Scrape the Prodigy HTML for discs.
  */
 import * as cheerio from 'cheerio'
-import * as assets from '../lib/assets.ts'
-import * as prodigy from '../lib/prodigy.ts'
-import {tools} from '../lib/index.ts'
+import * as assets from '../lib/assets'
+import * as prodigy from '../lib/prodigy'
+import {tools} from '../lib'
 
 const {f} = tools({baseUrl: 'https://www.prodigydisc.com'})
 

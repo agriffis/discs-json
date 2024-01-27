@@ -1,19 +1,15 @@
 import fs from 'fs/promises'
 import * as R from 'rambdax'
-import * as assets from './lib/assets.ts'
-import * as discmania from './lib/discmania.ts'
-import * as discraft from './lib/discraft.ts'
-import * as innova from './lib/innova.ts'
-import * as kastaplast from './lib/kastaplast.ts'
-import * as mint from './lib/mint.ts'
-import * as mvp from './lib/mvp.ts'
-import * as trilogy from './lib/trilogy.ts'
-import * as tsa from './lib/tsa.ts'
-import {Disc, DiscEntry} from './lib/types.ts'
-
-// https://www.30secondsofcode.org/js/s/remove-accents
-const _removeAccents = (s: string) =>
-  s.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+import * as assets from './lib/assets'
+import * as discmania from './lib/discmania'
+import * as discraft from './lib/discraft'
+import * as innova from './lib/innova'
+import * as kastaplast from './lib/kastaplast'
+import * as mint from './lib/mint'
+import * as mvp from './lib/mvp'
+import * as trilogy from './lib/trilogy'
+import * as tsa from './lib/tsa'
+import {Disc, DiscEntry} from './lib/types'
 
 const normalizeString = (s: string) => s.trim()
 
@@ -87,14 +83,11 @@ async function main() {
     }),
     // Run sorts in reverse order, since sorting is stable, it will maintain the
     // fallback ordering from the previous sort.
-    // 4. number of plastics, so that flight number variants with more plastics
+    // 3. number of plastics, so that flight number variants with more plastics
     // get higher priority when we are matching _without_ known plastic.
     R.sortBy<MakerDisc>(R.compose(R.negate, R.path('disc.0.length'))),
-    // 3. mold name, for readability and consistency.
+    // 2. mold name, for readability and consistency.
     R.sortBy<MakerDisc>(R.path('disc.1')),
-    // 2. mold length, so that shorter entries (Buzzz) don't accidentally match
-    // against longer inputs (Buzzz SS).
-    R.sortBy<MakerDisc>(R.compose(R.negate, R.path('disc.1.length'))),
     // 1. maker, for readability and consistency.
     R.sortBy<MakerDisc>(R.prop('maker')),
     // Group by maker.
@@ -104,6 +97,7 @@ async function main() {
     R.map<MakerDisc, DiscEntry[]>(R.map(R.prop('disc'))),
   )
 
+  // Custom JSON formatting.
   const j =
     '{"plastics":' +
     JSON.stringify(plastics) +
@@ -123,7 +117,8 @@ async function main() {
   JSON.parse(j)
 
   // Write to source file
-  await fs.writeFile('src/db.json', j, {encoding: 'utf8'})
+  await fs.mkdir('dist', {recursive: true})
+  await fs.writeFile('dist/db.json', j, {encoding: 'utf8'})
 }
 
 main()
