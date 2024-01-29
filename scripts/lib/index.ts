@@ -68,13 +68,6 @@ export type Req<T, K extends keyof T> = Omit<T, K> & Required<Pick<T, K>>
 
 export type ValueOf<T> = T[keyof T]
 
-export const assert = (x: any, msg?: string) => {
-  if (!x) {
-    throw new Error(msg ?? '')
-  }
-  return x
-}
-
 export const get =
   <T>(mapping: {[k: string]: T}) =>
   (key: any): T => {
@@ -98,13 +91,13 @@ const sortedUniq = <T>(input: T[]): T[] =>
   )
 
 // Manual conversion to JSON for easier vimdiffable formatting.
-export const myJson = d =>
+export const myJson = (d: any) =>
   stableJson(d, {indent: 1})
     .replace(/(?<=[\[{])\n\s*/g, '')
     .replace(/\n\s*(?=[\]}])/g, '')
     .replace(/\n\s*/g, ' ')
 
-export const myJsons = ds => {
+export const myJsons = (ds: any[]) => {
   const json =
     '[\n  ' + sortedUniq(ds.map(myJson).sort()).join(',\n  ') + '\n]\n'
   JSON.parse(json) // sanity
@@ -118,10 +111,10 @@ interface ToolsOptions {
 export const tools = (options: ToolsOptions = {}) => {
   const baseUrl = options.baseUrl?.replace(/\/$/, '') || ''
   return {
-    f: (s: string): Promise<string> => {
+    f: async (s: string): Promise<string> => {
       s = s.startsWith('/') ? `${baseUrl}${s}` : s
       console.log('fetching', s)
-      return fetch(s).then(r => r.text())
+      return await fetch(s).then(r => r.text())
     },
   }
 }

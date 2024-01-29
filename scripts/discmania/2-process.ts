@@ -27,7 +27,7 @@ async function main() {
       const t = $(this).text()
       const mold = t.split(/\s+[^\s\w]/)[0]
       const [speed, glide, turn, fade] = splitNums(t)
-      return {maker: 'Discmania', plastic: '', mold, speed, glide, turn, fade}
+      return {maker: 'Discmania', mold, speed, glide, turn, fade}
     })
     .toArray()
   await assets.writeJson(processed.discs, discs)

@@ -2,7 +2,7 @@
   {
     "fade": 2,
     "glide": 4,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Alpha",
     "plastic": "",
     "speed": 8,
@@ -11,7 +11,7 @@
   {
     "fade": 2.5,
     "glide": 4,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Bobcat",
     "plastic": "",
     "speed": 5,
@@ -20,7 +20,7 @@
   {
     "fade": 1,
     "glide": 4,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Bullet",
     "plastic": "",
     "speed": 2,
@@ -29,7 +29,7 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Diamondback",
     "plastic": "",
     "speed": 9,
@@ -38,7 +38,7 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Freetail",
     "plastic": "",
     "speed": 10,
@@ -47,7 +47,7 @@
   {
     "fade": 3,
     "glide": 4,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Goat",
     "plastic": "",
     "speed": 12,
@@ -56,7 +56,7 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Grackle",
     "plastic": "",
     "speed": 7,
@@ -65,7 +65,7 @@
   {
     "fade": 1,
     "glide": 5,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Jackalope",
     "plastic": "",
     "speed": 8,
@@ -74,7 +74,7 @@
   {
     "fade": 2.5,
     "glide": 4,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Longhorn",
     "plastic": "",
     "speed": 11,
@@ -83,7 +83,7 @@
   {
     "fade": 2,
     "glide": 5,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Mustang",
     "plastic": "",
     "speed": 5,
@@ -92,7 +92,7 @@
   {
     "fade": 4,
     "glide": 3,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Phoenix",
     "plastic": "",
     "speed": 9,
@@ -101,7 +101,7 @@
   {
     "fade": 2,
     "glide": 3,
-    "maker": "mint",
+    "maker": "Mint",
     "mold": "Profit",
     "plastic": "",
     "speed": 2,

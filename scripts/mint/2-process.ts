@@ -33,7 +33,7 @@ async function main() {
         })
         .text()
       const [speed, glide, turn, fade] = splitNums(numString)
-      return {maker: 'mint', plastic: '', mold, speed, glide, turn, fade}
+      return {maker: 'Mint', mold, speed, glide, turn, fade}
     })
     .toArray()
   await assets.writeJson(processed.discs, discs)

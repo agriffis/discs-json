@@ -35,7 +35,7 @@ async function main() {
       }
       if ($numses.length) {
         const [speed, glide, turn, fade] = splitNums($numses.text())
-        return {maker: 'Discraft', plastic: '', mold, speed, glide, turn, fade}
+        return {maker: 'Discraft', mold, speed, glide, turn, fade}
       }
     })
     .toArray()

@@ -4,7 +4,6 @@
     "glide": 6,
     "maker": "Discraft",
     "mold": "Anax",
-    "plastic": "",
     "speed": 10,
     "turn": 0
   },
@@ -13,7 +12,6 @@
     "glide": 4,
     "maker": "Discraft",
     "mold": "Buzzz",
-    "plastic": "",
     "speed": 5,
     "turn": -1
   },
@@ -22,7 +20,6 @@
     "glide": 4,
     "maker": "Discraft",
     "mold": "Buzzz SS",
-    "plastic": "",
     "speed": 5,
     "turn": -2
   },
@@ -31,7 +28,6 @@
     "glide": 6,
     "maker": "Discraft",
     "mold": "Heat",
-    "plastic": "",
     "speed": 9,
     "turn": -3
   },
@@ -40,7 +36,6 @@
     "glide": 4,
     "maker": "Discraft",
     "mold": "Malta",
-    "plastic": "",
     "speed": 5,
     "turn": 1
   },
@@ -49,7 +44,6 @@
     "glide": 5,
     "maker": "Discraft",
     "mold": "Nuke",
-    "plastic": "",
     "speed": 13,
     "turn": -1
   },
@@ -58,7 +52,6 @@
     "glide": 4,
     "maker": "Discraft",
     "mold": "Raptor",
-    "plastic": "",
     "speed": 9,
     "turn": 0
   },
@@ -67,7 +60,6 @@
     "glide": 5,
     "maker": "Discraft",
     "mold": "Sol",
-    "plastic": "",
     "speed": 4,
     "turn": -3
   },
@@ -76,7 +68,6 @@
     "glide": 5,
     "maker": "Discraft",
     "mold": "Stalker",
-    "plastic": "",
     "speed": 7,
     "turn": -1
   },
@@ -85,7 +76,6 @@
     "glide": 3,
     "maker": "Discraft",
     "mold": "Zone",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   }

@@ -1,13 +1,7 @@
 import fs from 'fs/promises'
 import path from 'path'
 import prettier from 'prettier'
-import {fileURLToPath} from 'url'
 import {stableJson} from '.'
-
-/*
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-*/
 
 const assetsDir = path.resolve(__dirname, '../../assets')
 
@@ -16,9 +10,9 @@ export async function read(name: string) {
   return await fs.readFile(fullName, {encoding: 'utf8'})
 }
 
-export async function readJson(name: string) {
+export async function readJson<T = unknown>(name: string) {
   const content = await read(name)
-  return JSON.parse(content)
+  return JSON.parse(content) as T
 }
 
 export async function write(name: string, content: string) {

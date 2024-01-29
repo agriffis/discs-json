@@ -36,7 +36,7 @@ async function main() {
           .text()
           .replace(/^.*?([\d.]+\s+\|.*\|\s+[\d.]+).*$/s, '$1')
         const [speed, glide, turn, fade] = splitNums(numString)
-        return {maker: 'tsa', plastic: '', mold, speed, glide, turn, fade}
+        return {maker: 'TSA', mold, speed, glide, turn, fade}
       })
       .toArray(),
   )

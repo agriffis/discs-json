@@ -4,7 +4,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "P1",
-    "plastic": "",
     "speed": 2,
     "turn": 0
   },
@@ -13,7 +12,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "Link",
-    "plastic": "",
     "speed": 2,
     "turn": 0
   },
@@ -22,7 +20,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "P2",
-    "plastic": "",
     "speed": 2,
     "turn": 0
   },
@@ -31,7 +28,6 @@
     "glide": 2,
     "maker": "Discmania",
     "mold": "P3x",
-    "plastic": "",
     "speed": 3,
     "turn": 0
   },
@@ -40,7 +36,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "Shogun",
-    "plastic": "",
     "speed": 2,
     "turn": 0
   },
@@ -49,7 +44,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "Logic",
-    "plastic": "",
     "speed": 3,
     "turn": 0
   },
@@ -58,7 +52,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "Sensei",
-    "plastic": "",
     "speed": 3,
     "turn": 0
   },
@@ -67,7 +60,6 @@
     "glide": 2,
     "maker": "Discmania",
     "mold": "Tactic",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   },
@@ -76,7 +68,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "Maestro",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   },
@@ -85,7 +76,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "Tailor",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   },
@@ -94,7 +84,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Method",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
@@ -103,7 +92,6 @@
     "glide": 6,
     "maker": "Discmania",
     "mold": "MD1",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
@@ -112,7 +100,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "MD3",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
@@ -121,7 +108,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "MD5",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
@@ -130,7 +116,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "Mutant",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
@@ -139,7 +124,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Origin",
-    "plastic": "",
     "speed": 5,
     "turn": -1
   },
@@ -148,7 +132,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "Magician",
-    "plastic": "",
     "speed": 6,
     "turn": 0
   },
@@ -157,7 +140,6 @@
     "glide": 6,
     "maker": "Discmania",
     "mold": "FD",
-    "plastic": "",
     "speed": 7,
     "turn": 0
   },
@@ -166,7 +148,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "FD1",
-    "plastic": "",
     "speed": 7,
     "turn": 0
   },
@@ -175,7 +156,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Genius",
-    "plastic": "",
     "speed": 7,
     "turn": -4
   },
@@ -184,7 +164,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Instinct",
-    "plastic": "",
     "speed": 7,
     "turn": 0
   },
@@ -193,7 +172,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "Mermaid",
-    "plastic": "",
     "speed": 7,
     "turn": -1
   },
@@ -202,7 +180,6 @@
     "glide": 6,
     "maker": "Discmania",
     "mold": "Essence",
-    "plastic": "",
     "speed": 8,
     "turn": -2
   },
@@ -211,7 +188,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Rockstar",
-    "plastic": "",
     "speed": 8,
     "turn": -2
   },
@@ -220,7 +196,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "Splice",
-    "plastic": "",
     "speed": 9,
     "turn": 0
   },
@@ -229,7 +204,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "FD3",
-    "plastic": "",
     "speed": 9,
     "turn": 0
   },
@@ -238,7 +212,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "CD1",
-    "plastic": "",
     "speed": 9,
     "turn": -1
   },
@@ -247,7 +220,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Vanguard",
-    "plastic": "",
     "speed": 9,
     "turn": 0
   },
@@ -256,7 +228,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "TD",
-    "plastic": "",
     "speed": 10,
     "turn": -2
   },
@@ -265,7 +236,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "PD",
-    "plastic": "",
     "speed": 10,
     "turn": 0
   },
@@ -274,7 +244,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Mentor",
-    "plastic": "",
     "speed": 11,
     "turn": -2
   },
@@ -283,7 +252,6 @@
     "glide": 6,
     "maker": "Discmania",
     "mold": "Astronaut",
-    "plastic": "",
     "speed": 12,
     "turn": -4
   },
@@ -292,7 +260,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Enigma",
-    "plastic": "",
     "speed": 12,
     "turn": -1
   },
@@ -301,7 +268,6 @@
     "glide": 6,
     "maker": "Discmania",
     "mold": "DD",
-    "plastic": "",
     "speed": 11,
     "turn": -3
   },
@@ -310,7 +276,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "DD1",
-    "plastic": "",
     "speed": 11,
     "turn": -1
   },
@@ -319,7 +284,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "DD3",
-    "plastic": "",
     "speed": 12,
     "turn": -1
   },
@@ -328,7 +292,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "PD2",
-    "plastic": "",
     "speed": 12,
     "turn": 0
   },
@@ -337,7 +300,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Cloud Breaker",
-    "plastic": "",
     "speed": 12,
     "turn": -1
   },
@@ -346,7 +308,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "Majesty",
-    "plastic": "",
     "speed": 13,
     "turn": -2
   },
@@ -355,7 +316,6 @@
     "glide": 6,
     "maker": "Discmania",
     "mold": "Paradigm",
-    "plastic": "",
     "speed": 12,
     "turn": -1.5
   },
@@ -364,7 +324,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "P1x",
-    "plastic": "",
     "speed": 2,
     "turn": 0
   },
@@ -373,7 +332,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "Rainmaker",
-    "plastic": "",
     "speed": 2,
     "turn": 0
   },
@@ -382,7 +340,6 @@
     "glide": 2,
     "maker": "Discmania",
     "mold": "P3",
-    "plastic": "",
     "speed": 3,
     "turn": 0
   },
@@ -391,7 +348,6 @@
     "glide": 2,
     "maker": "Discmania",
     "mold": "Razor Claw Tactic",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   },
@@ -400,7 +356,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "MD",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   },
@@ -409,7 +364,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "MD2",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   },
@@ -418,7 +372,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "MD4",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
@@ -427,7 +380,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "GM",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
@@ -436,7 +388,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "FD2",
-    "plastic": "",
     "speed": 7,
     "turn": 0
   },
@@ -445,7 +396,6 @@
     "glide": 1,
     "maker": "Discmania",
     "mold": "Tilt",
-    "plastic": "",
     "speed": 9,
     "turn": 1
   },
@@ -454,7 +404,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "CD",
-    "plastic": "",
     "speed": 10,
     "turn": -1
   },
@@ -463,7 +412,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "CD2",
-    "plastic": "",
     "speed": 9,
     "turn": -1
   },
@@ -472,7 +420,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "CD3",
-    "plastic": "",
     "speed": 11,
     "turn": -1
   },
@@ -481,7 +428,6 @@
     "glide": 3,
     "maker": "Discmania",
     "mold": "PD3",
-    "plastic": "",
     "speed": 11,
     "turn": 0
   },
@@ -490,7 +436,6 @@
     "glide": 4,
     "maker": "Discmania",
     "mold": "PDx",
-    "plastic": "",
     "speed": 11,
     "turn": 0
   },
@@ -499,7 +444,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "DD2",
-    "plastic": "",
     "speed": 13,
     "turn": -2
   },
@@ -508,7 +452,6 @@
     "glide": 6,
     "maker": "Discmania",
     "mold": "DDx",
-    "plastic": "",
     "speed": 12,
     "turn": -1
   },
@@ -517,7 +460,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "TD2",
-    "plastic": "",
     "speed": 10,
     "turn": -4
   },
@@ -526,7 +468,6 @@
     "glide": 5,
     "maker": "Discmania",
     "mold": "TDx",
-    "plastic": "",
     "speed": 9,
     "turn": -3
   }

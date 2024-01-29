@@ -1,5 +1,5 @@
 /**
- * Scrape the Innova HTML for discs and plastics.
+ * Scrape the Innova HTML for discs.
  */
 import * as cheerio from 'cheerio'
 import * as assets from '../lib/assets'
@@ -12,13 +12,10 @@ async function main() {
 
   const $ = cheerio.load(html, null, false)
 
-  const plastics = $('.plastic-nav').first().parents('table').prop('outerHTML')
-
   const discs = $('#disc-comparison')
     .prop('outerHTML')
     .replace(/(?=<(?:\/?thead|\/?tbody|tr)>)/g, '\n')
 
-  await assets.writeHtml(scraped.plastics, plastics)
   await assets.writeHtml(scraped.discs, discs)
 }
 

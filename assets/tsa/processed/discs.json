@@ -2,90 +2,80 @@
   {
     "fade": 1,
     "glide": 3,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Praxis",
-    "plastic": "",
     "speed": 3,
     "turn": 0
   },
   {
     "fade": 1,
     "glide": 3,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Alter",
-    "plastic": "",
     "speed": 3,
     "turn": 0
   },
   {
     "fade": 2,
     "glide": 3,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Muse",
-    "plastic": "",
     "speed": 3,
     "turn": 0
   },
   {
     "fade": 3,
     "glide": 3,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Temple",
-    "plastic": "",
     "speed": 4,
     "turn": 0
   },
   {
     "fade": 1,
     "glide": 5,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Pathfinder",
-    "plastic": "",
     "speed": 5,
     "turn": 0
   },
   {
     "fade": 1,
     "glide": 5,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Mana",
-    "plastic": "",
     "speed": 5,
     "turn": -2
   },
   {
     "fade": 3,
     "glide": 5,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Votum",
-    "plastic": "",
     "speed": 7,
     "turn": 0
   },
   {
     "fade": 4,
     "glide": 4,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Omen",
-    "plastic": "",
     "speed": 9,
     "turn": 0
   },
   {
     "fade": 1,
     "glide": 6,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Mantra",
-    "plastic": "",
     "speed": 9,
     "turn": -2
   },
   {
     "fade": 3,
     "glide": 5,
-    "maker": "tsa",
+    "maker": "TSA",
     "mold": "Coalesce",
-    "plastic": "",
     "speed": 9,
     "turn": 0
   }
