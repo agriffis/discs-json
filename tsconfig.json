@@ -1,6 +1,7 @@
 {
   "extends": "@tsconfig/node21/tsconfig.json",
   "compilerOptions": {
+    "moduleResolution": "bundler", // tsx
     "noEmit": true,
     "resolveJsonModule": true,
     "strict": false,

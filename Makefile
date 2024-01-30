@@ -1,4 +1,4 @@
-TSX = pnpm ts-node
+TSX = pnpm tsx --enable-source-maps
 MAKERS = $(shell cd scripts; echo */1-*.ts | xargs dirname | sort -u)
 BROKEN = mint prodigy
 STAGE = ''

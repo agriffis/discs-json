@@ -3,6 +3,7 @@
  */
 import * as cheerio from 'cheerio'
 import * as R from 'rambdax'
+import {titleCase} from 'title-case'
 import * as assets from '../lib/assets'
 import {processed, scraped} from '../lib/trilogy'
 import {Disc} from '../lib/types'
@@ -25,14 +26,12 @@ const normalizeMaker = (s: string) => {
   return normalizedMakers[mk]
 }
 
-const normalizeMold = async (s: string) =>
+const normalizeMold = (s: string) =>
   /[A-Z]/.test(s) && /[a-z]/.test(s)
     ? s
-    : (await import('title-case'))
-        .titleCase(s.toLowerCase())
-        .replace('Spz', 'SPZ')
+    : titleCase(s.toLowerCase()).replace('Spz', 'SPZ')
 
-const splitMakerMold = async (s: string) => {
+const splitMakerMold = (s: string) => {
   const m = s.match(
     /^\s*(Dynamic\s*Discs|Latitude\s*64|Westside\s*Discs)\s+(\w.*?)\s*$/i,
   )
@@ -41,7 +40,7 @@ const splitMakerMold = async (s: string) => {
   }
   return {
     maker: normalizeMaker(m[1]),
-    mold: await normalizeMold(m[2]),
+    mold: normalizeMold(m[2]),
   }
 }
 
@@ -58,89 +57,83 @@ const splitNums = (s: string) => {
 async function dd() {
   const html = await assets.read(scraped.dynamic.discs)
   const $ = cheerio.load(html, null, false)
-  const discs: DiscWithPriority[] = await Promise.all(
-    $('h5')
-      .map(async function () {
-        const full = $(this).text()
-        let {maker, mold} = await splitMakerMold(full)
-        if (['Giant', 'Sampo'].includes(mold)) {
-          maker = normalizedMakers.wes // silly dynamic
-        }
-        const nums = $(this).next().text()
-        const [speed, glide, turn, fade] = splitNums(nums)
-        return {
-          maker,
-          mold,
-          speed,
-          glide,
-          turn,
-          fade,
-          plastic: '',
-          priority: maker === normalizedMakers.dyn ? 1 : 0,
-        }
-      })
-      .toArray(),
-  )
+  const discs: DiscWithPriority[] = $('h5')
+    .map(function () {
+      const full = $(this).text()
+      let {maker, mold} = splitMakerMold(full)
+      if (['Giant', 'Sampo'].includes(mold)) {
+        maker = normalizedMakers.wes // silly dynamic
+      }
+      const nums = $(this).next().text()
+      const [speed, glide, turn, fade] = splitNums(nums)
+      return {
+        maker,
+        mold,
+        speed,
+        glide,
+        turn,
+        fade,
+        plastic: '',
+        priority: maker === normalizedMakers.dyn ? 1 : 0,
+      }
+    })
+    .toArray()
   return discs
 }
 
 async function lat() {
   const html = await assets.read(scraped.latitude.discs)
   const $ = cheerio.load(html, null, false)
-  const discs: DiscWithPriority[] = await Promise.all(
-    $('h2 a')
-      .map(async function () {
-        const $link = $(this)
-        const mold = await normalizeMold($link.text().trim())
-        const nums = $link.parent().nextAll('p:contains("SPEED:"):first').text()
-        if (nums) {
-          const [speed, glide, turn, fade] = splitNums(nums)
-          return {
-            maker: normalizedMakers.lat,
-            mold,
-            speed,
-            glide,
-            turn,
-            fade,
-            plastic: '',
-            priority: 1,
-          }
+  const discs: DiscWithPriority[] = $('h2 a')
+    .map(function () {
+      const $link = $(this)
+      const mold = normalizeMold($link.text().trim())
+      const nums = $link.parent().nextAll('p:contains("SPEED:"):first').text()
+      if (nums) {
+        const [speed, glide, turn, fade] = splitNums(nums)
+        return {
+          maker: normalizedMakers.lat,
+          mold,
+          speed,
+          glide,
+          turn,
+          fade,
+          plastic: '',
+          priority: 1,
         }
-        console.warn(`couldn't find numbers for ${mold}`)
-      })
-      .toArray()
-      .filter(Boolean),
-  )
+      }
+      console.warn(`couldn't find numbers for ${mold}`)
+    })
+    .toArray()
+    .filter(Boolean)
   return discs
 }
 
 async function westside() {
   const html = await assets.read(scraped.westside.discs)
   const $ = cheerio.load(html, null, false)
-  const discs: DiscWithPriority[] = await Promise.all(
-    $('a')
-      .map(async function () {
-        const $link = $(this)
-        const mold = await normalizeMold($link.attr('title').trim())
-        const nums = $link.text()
-        if (nums) {
-          const [speed, glide, turn, fade] = splitNums(nums)
-          return {
-            maker: normalizedMakers.wes,
-            mold,
-            speed,
-            glide,
-            turn,
-            fade,
-            plastic: '',
-            priority: 1,
-          }
+  const discs: DiscWithPriority[] = $('a')
+    .map(function () {
+      const $link = $(this)
+      const mold = normalizeMold($link.attr('title').trim())
+      const nums = $link.text()
+      if (nums) {
+        const [speed, glide, turn, fade] = splitNums(nums)
+        return {
+          maker: normalizedMakers.wes,
+          mold,
+          speed,
+          glide,
+          turn,
+          fade,
+          plastic: '',
+          priority: 1,
         }
-        console.warn(`couldn't find numbers for ${mold}`)
-      })
-      .toArray()
-      .filter(Boolean),
-  )
+      }
+      console.warn(`couldn't find numbers for ${mold}`)
+    })
+    .toArray()
+    .filter(Boolean)
   return discs
 }
 

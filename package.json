@@ -1,16 +1,15 @@
 {
-  "name": "@scampersand/discs-json",
+  "name": "@agriffis/discs-json",
   "version": "1.0.0",
+  "type": "module",
   "dependencies": {
-    "@fast-csv/parse": "^4.3.6",
     "@tsconfig/node21": "^21.0.1",
     "@types/node": "^20.11.6",
     "cheerio": "1.0.0-rc.12",
-    "md5": "^2.3.0",
     "prettier": "^3.2.4",
     "rambdax": "^10.1.0",
     "title-case": "^4.3.1",
-    "ts-node": "^10.9.2",
+    "tsx": "^4.7.0",
     "typescript": "^5.3.3"
   },
   "prettier": {
@@ -22,7 +21,7 @@
     "trailingComma": "all"
   },
   "volta": {
-    "node": "21.6.1",
+    "node": "21.5.0",
     "pnpm": "8.14.3"
   }
 }
