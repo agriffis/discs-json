@@ -29,7 +29,7 @@ const normalizeMaker = (s: string) => {
 const normalizeMold = (s: string) =>
   /[A-Z]/.test(s) && /[a-z]/.test(s)
     ? s
-    : titleCase(s.toLowerCase()).replace('Spz', 'SPZ')
+    : titleCase(s.toLowerCase()).replace('Spz', 'SPZ').replace('Xxx', 'XXX')
 
 const splitMakerMold = (s: string) => {
   const m = s.match(
