@@ -118,5 +118,21 @@
     "mold": "Rask",
     "speed": 14,
     "turn": 0
+  },
+  {
+    "fade": 1,
+    "glide": 5,
+    "maker": "Kastaplast",
+    "mold": "Stig",
+    "speed": 6,
+    "turn": -2
+  },
+  {
+    "fade": 2,
+    "glide": 1,
+    "maker": "Kastaplast",
+    "mold": "Berg X",
+    "speed": 1,
+    "turn": 1
   }
 ]
